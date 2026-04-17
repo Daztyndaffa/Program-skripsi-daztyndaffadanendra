@@ -1,0 +1,11 @@
+chromadb
+langchain
+langchain-community
+langchain-ollama
+rank-bm25
+pandas
+tqdm
+ragas
+datasets
+openai
+streamlit

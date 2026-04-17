@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "Apa yang dimiliki Universitas Islam Riau dalam hal fakultas dan program studi?",
+    "ground_truth": "Universitas Islam Riau memiliki berbagai fakultas dan program studi pada jenjang sarjana, magister, dan doktor.",
+    "category": "profil_universitas"
+  },
+  {
+    "question": "Apa program studi di Fakultas Hukum UIR?",
+    "ground_truth": "Fakultas Hukum memiliki program studi Ilmu Hukum jenjang S1 dengan akreditasi Unggul.",
+    "category": "fakultas"
+  },
+  {
+    "question": "Apa saja program studi di Fakultas Agama Islam UIR?",
+    "ground_truth": "Program studinya meliputi Ekonomi Islam, Pendidikan Agama Islam, PIAUD, Perbankan Syariah, dan Pendidikan Bahasa Arab.",
+    "category": "fakultas"
+  },
+  {
+    "question": "Apa akreditasi program studi di Fakultas Agama Islam UIR?",
+    "ground_truth": "Ekonomi Islam dan PIAUD Baik Sekali, Pendidikan Agama Islam Unggul, Perbankan Syariah dan Pendidikan Bahasa Arab Baik.",
+    "category": "akreditasi_prodi"
+  },
+  {
+    "question": "Apa saja program studi di Fakultas Teknik UIR?",
+    "ground_truth": "Program studi di Fakultas Teknik UIR meliputi Teknik Sipil, Teknik Perminyakan, Teknik Mesin, Teknik PWK, Teknik Informatika, dan Teknik Geologi.",
+    "category": "fakultas"
+  },
+  {
+    "question": "Apa akreditasi program studi di Fakultas Teknik UIR?",
+    "ground_truth": "Semua program studi di Fakultas Teknik memiliki akreditasi Baik Sekali.",
+    "category": "akreditasi_prodi"
+  },
+  {
+    "question": "Apa saja program studi di Fakultas Pertanian UIR?",
+    "ground_truth": "Agroteknologi, Agribisnis, dan Akuakultur (Budidaya Perairan).",
+    "category": "fakultas"
+  },
+  {
+    "question": "Apa akreditasi program studi Fakultas Pertanian UIR?",
+    "ground_truth": "Semua program studi memiliki akreditasi Unggul.",
+    "category": "akreditasi_prodi"
+  },
+  {
+    "question": "Apa saja program studi di Fakultas Ekonomi dan Bisnis UIR?",
+    "ground_truth": "Ekonomi Pembangunan, Manajemen, dan Akuntansi.",
+    "category": "fakultas"
+  },
+  {
+    "question": "Apa akreditasi program studi Fakultas Ekonomi dan Bisnis UIR?",
+    "ground_truth": "Semua program studi memiliki akreditasi Baik Sekali.",
+    "category": "akreditasi_prodi"
+  },
+  {
+    "question": "Apa saja program studi di FKIP UIR?",
+    "ground_truth": "Pendidikan Kimia, Bahasa Indonesia, Bahasa Inggris, Matematika, Biologi, Jasmani, Seni, Akuntansi, PGSD, dan PPG.",
+    "category": "fakultas"
+  },
+  {
+    "question": "Apa akreditasi program studi di FKIP UIR?",
+    "ground_truth": "Bahasa Indonesia dan Biologi Unggul, lainnya Baik Sekali.",
+    "category": "akreditasi_prodi"
+  },
+  {
+    "question": "Apa saja program studi di FISIPOL UIR?",
+    "ground_truth": "Administrasi Publik, Administrasi Bisnis, Ilmu Pemerintahan, Kriminologi, dan Hubungan Internasional.",
+    "category": "fakultas"
+  },
+  {
+    "question": "Apa akreditasi program studi di FISIPOL UIR?",
+    "ground_truth": "Administrasi Publik, Bisnis, Pemerintahan, dan Kriminologi Unggul, Hubungan Internasional Baik.",
+    "category": "akreditasi_prodi"
+  },
+  {
+    "question": "Apa program studi di Fakultas Psikologi UIR?",
+    "ground_truth": "Program studi Psikologi jenjang S1 dengan akreditasi B.",
+    "category": "fakultas"
+  },
+  {
+    "question": "Apa program studi di Fakultas Ilmu Komunikasi UIR?",
+    "ground_truth": "Program studi Ilmu Komunikasi jenjang S1 dengan akreditasi B.",
+    "category": "fakultas"
+  },
+  {
+    "question": "Apa yang diselenggarakan oleh Program Pascasarjana UIR?",
+    "ground_truth": "Program Pascasarjana menyelenggarakan pendidikan jenjang S2 dan S3 di berbagai bidang.",
+    "category": "pascasarjana"
+  },
+  {
+    "question": "Apa saja program studi S2 di UIR?",
+    "ground_truth": "Agronomi, Ilmu Hukum, Ilmu Pemerintahan, Manajemen Agribisnis, Teknik Sipil, Ilmu Administrasi, Manajemen, dan Akuntansi.",
+    "category": "pascasarjana"
+  },
+  {
+    "question": "Apa akreditasi program studi S2 di UIR?",
+    "ground_truth": "Agronomi dan Ilmu Pemerintahan Baik Sekali, Ilmu Hukum, Agribisnis, Teknik Sipil, dan Administrasi Unggul, Manajemen dan Akuntansi Baik Sekali.",
+    "category": "akreditasi_prodi"
+  },
+  {
+    "question": "Apa saja program studi S3 di UIR?",
+    "ground_truth": "Program studi S3 meliputi Hukum dan Sains Manajemen dengan akreditasi Baik.",
+    "category": "pascasarjana"
+  },
+  {
+    "question": "Apa yang dimaksud dengan beasiswa?",
+    "ground_truth": "Beasiswa adalah bantuan keuangan untuk keberlangsungan pendidikan selama masa studi.",
+    "category": "beasiswa"
+  },
+  {
+    "question": "Apa itu bantuan pendidikan?",
+    "ground_truth": "Bantuan pendidikan adalah dukungan keuangan untuk meringankan biaya pendidikan pada semester tertentu.",
+    "category": "beasiswa"
+  },
+  {
+    "question": "Apa saja program beasiswa dari Pemerintah Provinsi Riau?",
+    "ground_truth": "Beasiswa Bidikmisi Bhakti Negeri, Prestasi, Tahfidz Qur’an, S2, dan S3.",
+    "category": "jenis beasiswa"
+  },
+  {
+    "question": "Apa program beasiswa dari Kabupaten Siak?",
+    "ground_truth": "Beasiswa Kerjasama Siak.",
+    "category": "jenis beasiswa"
+  },
+  {
+    "question": "Apa beasiswa dari Kementerian Pendidikan untuk mahasiswa?",
+    "ground_truth": "Program KIP Kuliah.",
+    "category": "jenis beasiswa"
+  },
+  {
+    "question": "Apa saja beasiswa internal UIR?",
+    "ground_truth": "Beasiswa UIR dan Beasiswa Mahasiswa Asing.",
+    "category": "jenis beasiswa"
+  },
+  {
+    "question": "Apa bantuan pendidikan dari Pemprov Riau untuk mahasiswa UIR?",
+    "ground_truth": "Bantuan Sosial Pendidikan (BANSOS).",
+    "category": "bantuan pendidikan"
+  },
+  {
+    "question": "Apa bantuan pendidikan dari Kabupaten Kepulauan Meranti?",
+    "ground_truth": "Bantuan Sosial Pendidikan dari Pemkab Kepulauan Meranti.",
+    "category": "bantuan pendidikan"
+  },
+  {
+    "question": "Apa bantuan pendidikan dari Kabupaten Kuantan Singingi?",
+    "ground_truth": "Bantuan Sosial Pendidikan dari Pemkab Kuantan Singingi.",
+    "category": "bantuan pendidikan"
+  },
+  {
+    "question": "Apa bantuan pendidikan dari BNI?",
+    "ground_truth": "Bantuan pendidikan dari Bank Negara Indonesia (BNI).",
+    "category": "bantuan pendidikan"
+  },
+  {
+    "question": "Apa bantuan pendidikan dari BRI?",
+    "ground_truth": "Bantuan pendidikan dari Bank Rakyat Indonesia (BRI).",
+    "category": "bantuan pendidikan"
+  },
+  {
+    "question": "Apa bantuan pendidikan dari Pertamina Foundation?",
+    "ground_truth": "Bantuan pendidikan dari Pertamina Foundation.",
+    "category": "bantuan pendidikan"
+  },
+  {
+    "question": "Apa bantuan pendidikan dari UPZ UIR?",
+    "ground_truth": "Bantuan pendidikan dari UPZ Universitas Islam Riau.",
+    "category": "bantuan pendidikan"
+  },
+  {
+    "question": "Apakah persyaratan beasiswa sama untuk semua program?",
+    "ground_truth": "Tidak, setiap beasiswa memiliki syarat dan ketentuan yang berbeda.",
+    "category": "informasi beasiswa"
+  },
+  {
+    "question": "Di mana informasi terbaru tentang beasiswa UIR dipublikasikan?",
+    "ground_truth": "Informasi tersebut dapat diperoleh di website resmi BAAK Universitas Islam Riau.",
+    "category": "informasi beasiswa"
+  },
+  {
+    "question": "Bagaimana cara mendapatkan informasi layanan beasiswa UIR?",
+    "ground_truth": "Dengan menghubungi atau mengunjungi BLMA Universitas Islam Riau.",
+    "category": "informasi beasiswa"
+  },
+  {
+    "question": "Kapan usulan dosen pengampu matakuliah ke DLMA pada semester ganjil 2025/2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 18 Agustus 2025 sampai 22 Agustus 2025.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan input pengampu matakuliah oleh program studi pada semester ganjil 2025/2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 18 Agustus 2025 sampai 29 Agustus 2025.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan verifikasi pengampu matakuliah oleh DLMA dilakukan?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 1 September 2025 sampai 5 September 2025.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan penerbitan SK Rektor pengampu matakuliah?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 8 September 2025 sampai 12 September 2025.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan pembayaran SPP tahap 1 semester ganjil 2025/2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 4 Agustus 2025 sampai 31 Oktober 2025.",
+    "category": "keuangan"
+  },
+  {
+    "question": "Kapan pembayaran SKS tahap 2 semester ganjil 2025/2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 4 Agustus 2025 sampai 31 Oktober 2025.",
+    "category": "keuangan"
+  },
+  {
+    "question": "Kapan pengisian KRS semester ganjil 2025/2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 8 September 2025 sampai 3 Oktober 2025.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan pengajuan cuti akademik semester ganjil 2025/2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 4 Agustus 2025 sampai 31 Oktober 2025.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan perkuliahan semester ganjil 2025/2026 berlangsung?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 15 September 2025 sampai 9 Januari 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan UTS semester ganjil 2025/2026 dilaksanakan?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 3 November 2025 sampai 14 November 2025.",
+    "category": "ujian"
+  },
+  {
+    "question": "Kapan UAS semester ganjil 2025/2026 dilaksanakan?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 12 Januari 2026 sampai 23 Januari 2026.",
+    "category": "ujian"
+  },
+  {
+    "question": "Kapan libur semester ganjil 2025/2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 26 Januari 2026 sampai 6 Februari 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan input nilai UAS semester ganjil dilakukan?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 26 Januari 2026 sampai 6 Februari 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan verifikasi nilai oleh ketua program studi semester ganjil?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 9 Februari 2026 sampai 13 Februari 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan pelaksanaan ujian skripsi pada semester ganjil 2025/2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 4 Agustus 2025 sampai 31 Januari 2026.",
+    "category": "skripsi"
+  },
+  {
+    "question": "Kapan input nilai skripsi semester ganjil 2025/2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 4 Agustus 2025 sampai 31 Januari 2026.",
+    "category": "skripsi"
+  },
+  {
+    "question": "Kapan pelaporan PDDIKTI poin 1 semester ganjil?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 27 Oktober 2025 sampai 7 November 2025.",
+    "category": "pelaporan"
+  },
+  {
+    "question": "Kapan evaluasi mahasiswa dan pelaporan PDDIKTI semester ganjil?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 9 Februari 2026 sampai 20 Februari 2026.",
+    "category": "pelaporan"
+  },
+  {
+    "question": "Kapan pelaporan PDDIKTI poin 2 semester ganjil?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 23 Maret 2026 sampai 3 April 2026.",
+    "category": "pelaporan"
+  },
+  {
+    "question": "Kapan usulan dosen pengampu matakuliah semester genap 2025/2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 5 Januari 2026 sampai 16 Januari 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan input pengampu matakuliah semester genap?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 12 Januari 2026 sampai 23 Januari 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan verifikasi pengampu oleh DLMA semester genap?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 26 Januari 2026 sampai 30 Januari 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan penerbitan SK Rektor semester genap?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 2 Februari 2026 sampai 6 Februari 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan pembayaran SPP tahap 1 semester genap?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 2 Februari 2026 sampai 10 April 2026.",
+    "category": "keuangan"
+  },
+  {
+    "question": "Kapan pembayaran SKS tahap 2 semester genap?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 2 Februari 2026 sampai 12 Juni 2026.",
+    "category": "keuangan"
+  },
+  {
+    "question": "Kapan pengajuan cuti akademik semester genap?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 2 Februari 2026 sampai 10 April 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan pengisian KRS semester genap?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 2 Februari 2026 sampai 10 April 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan perkuliahan semester genap berlangsung?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 9 Februari 2026 sampai 12 Juni 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan UTS semester genap dilaksanakan?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 13 April 2026 sampai 24 April 2026.",
+    "category": "ujian"
+  },
+  {
+    "question": "Kapan UAS semester genap dilaksanakan?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 15 Juni 2026 sampai 26 Juni 2026.",
+    "category": "ujian"
+  },
+  {
+    "question": "Kapan libur semester genap?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 29 Juni 2026 sampai 11 September 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan input nilai UAS semester genap?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 29 Juni 2026 sampai 10 Juli 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan verifikasi nilai semester genap?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 13 Juli 2026 sampai 17 Juli 2026.",
+    "category": "akademik"
+  },
+  {
+    "question": "Kapan pendaftaran semester antara 2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 15 Juni 2026 sampai 26 Juni 2026.",
+    "category": "semester_antara"
+  },
+  {
+    "question": "Kapan entry dosen pengampu semester antara?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 29 Juni 2026 sampai 30 Juni 2026.",
+    "category": "semester_antara"
+  },
+  {
+    "question": "Kapan registrasi SIKAD semester antara?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 29 Juni 2026 sampai 3 Juli 2026.",
+    "category": "semester_antara"
+  },
+  {
+    "question": "Kapan verifikasi data semester antara oleh DLMA?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 17 Juni 2026 sampai 22 Juni 2026.",
+    "category": "semester_antara"
+  },
+  {
+    "question": "Kapan pelaksanaan perkuliahan semester antara?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 6 Juli 2026 sampai 28 Agustus 2026.",
+    "category": "semester_antara"
+  },
+  {
+    "question": "Kapan input nilai semester antara?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 31 Agustus 2026 sampai 4 September 2026.",
+    "category": "semester_antara"
+  },
+  {
+    "question": "Kapan verifikasi nilai semester antara?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 7 September 2026 sampai 9 September 2026.",
+    "category": "semester_antara"
+  },
+  {
+    "question": "Kapan pendaftaran wisuda periode 3 tahun 2025?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 7 Juli 2025 sampai 25 Agustus 2025.",
+    "category": "wisuda"
+  },
+  {
+    "question": "Kapan pelaksanaan wisuda periode 3 tahun 2025?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 15 Oktober 2025 sampai 16 Oktober 2025.",
+    "category": "wisuda"
+  },
+  {
+    "question": "Kapan pendaftaran wisuda periode 1 tahun 2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 20 Oktober 2025 sampai 30 Desember 2025.",
+    "category": "wisuda"
+  },
+  {
+    "question": "Kapan pelaksanaan wisuda periode 1 tahun 2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 18 Februari 2026 sampai 19 Februari 2026.",
+    "category": "wisuda"
+  },
+  {
+    "question": "Kapan pendaftaran wisuda periode 2 tahun 2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 23 Februari 2026 sampai 29 April 2026.",
+    "category": "wisuda"
+  },
+  {
+    "question": "Kapan pelaksanaan wisuda periode 2 tahun 2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 17 Juni 2026 sampai 18 Juni 2026.",
+    "category": "wisuda"
+  },
+  {
+    "question": "Kapan pendaftaran wisuda periode 3 tahun 2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 22 Juni 2026 sampai 26 Agustus 2026.",
+    "category": "wisuda"
+  },
+  {
+    "question": "Kapan pelaksanaan wisuda periode 3 tahun 2026?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 14 Oktober 2026 sampai 15 Oktober 2026.",
+    "category": "wisuda"
+  },
+  {
+    "question": "Kapan pelaksanaan PKKMB tahun 2025?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 9 September 2025 sampai 11 September 2025.",
+    "category": "kegiatan"
+  },
+  {
+    "question": "Apa itu pembayaran UKT di Universitas Islam Riau?",
+    "ground_truth": "Pembayaran UKT adalah kewajiban mahasiswa setiap awal semester sebagai syarat melakukan proses akademik termasuk pengisian KRS.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Apa ketentuan pembayaran UKT bagi mahasiswa?",
+    "ground_truth": "Mahasiswa wajib melunasi UKT sebelum KRS dan jika belum membayar tidak dapat melanjutkan proses akademik.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Apa saja metode pembayaran UKT yang tersedia?",
+    "ground_truth": "Melalui teller, ATM, internet banking, mobile banking, dan transfer bank.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui teller BPR Unisritama?",
+    "ground_truth": "Datang ke BPR Unisritama, tulis NPM pada struk, lalu serahkan uang ke teller.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui teller BSI?",
+    "ground_truth": "Datang ke BSI, tulis NPM pada struk, lalu serahkan uang ke teller.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui teller Bank Mega Syariah?",
+    "ground_truth": "Datang ke Bank Mega Syariah, tulis NPM pada struk, lalu serahkan uang ke teller.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui teller BNI?",
+    "ground_truth": "Datang ke Bank BNI, tulis NPM pada struk, lalu serahkan uang ke teller.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui teller Bank Riau Kepri?",
+    "ground_truth": "Datang ke Bank Riau Kepri, tulis NPM pada struk, lalu serahkan uang ke teller.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui teller BTN Syariah?",
+    "ground_truth": "Datang ke BTN Syariah, tulis NPM pada struk, lalu serahkan uang ke teller.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui ATM BSI?",
+    "ground_truth": "Masukkan kartu dan PIN, pilih pembayaran akademik, masukkan kode 2661 dan NPM, lalu ikuti instruksi.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui ATM Bank Mega Syariah?",
+    "ground_truth": "Masukkan kartu dan PIN, pilih E-Payment, masukkan 5069005 dan NPM, lalu ikuti instruksi.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui ATM BNI?",
+    "ground_truth": "Masukkan kartu dan PIN, pilih universitas dan SPC, masukkan 8052 dan NPM, lalu ikuti instruksi.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui ATM BTN Syariah?",
+    "ground_truth": "Masukkan kartu dan PIN, pilih multipayment, masukkan VA 70001006 dan NPM, lalu ikuti instruksi.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui BSI Mobile?",
+    "ground_truth": "Login, pilih bayar akademik UIR 2661, masukkan NPM, lalu ikuti instruksi.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui Mega Syariah Mobile?",
+    "ground_truth": "Login, pilih MS VA, masukkan 5069005 dan NPM, lalu ikuti instruksi.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui BNI Mobile?",
+    "ground_truth": "Login, pilih biaya pendidikan, pilih UIR, masukkan NPM sebagai billing, lalu ikuti instruksi.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui BTN Syariah Mobile?",
+    "ground_truth": "Login, pilih virtual account, masukkan 70001006 dan NPM, lalu ikuti instruksi.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui BRKS Mobile?",
+    "ground_truth": "Pilih universitas UIR, masukkan NPM, cek tagihan, lalu konfirmasi pembayaran.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Bagaimana cara pembayaran UKT melalui transfer Bank Mandiri?",
+    "ground_truth": "Gunakan kode bank sesuai tujuan dan NPM, masukkan nominal, lalu ikuti instruksi transfer.",
+    "category": "pembayaran_ukt"
+  },
+  {
+    "question": "Apa fungsi pedoman akademik di Fakultas Teknik UIR?",
+    "ground_truth": "Pedoman akademik menjadi acuan bagi dosen dan mahasiswa dalam menjalankan kegiatan akademik setiap semester.",
+    "category": "pedoman_akademik"
+  },
+  {
+    "question": "Bagaimana aturan pakaian mahasiswa pria saat kuliah?",
+    "ground_truth": "Harus rapi, memakai kemeja atau kaos berkerah, tidak boleh kaos oblong, wajib sepatu dan tidak boleh sandal.",
+    "category": "tata_tertib_pakaian"
+  },
+  {
+    "question": "Bagaimana aturan pakaian mahasiswa wanita saat kuliah?",
+    "ground_truth": "Harus rapi, memakai baju lengan panjang tidak ketat, rok longgar, tidak boleh celana ketat atau rok mini, wajib sepatu, dan dianjurkan memakai jilbab.",
+    "category": "tata_tertib_pakaian"
+  },
+  {
+    "question": "Apa pakaian wajib mahasiswa pria saat ujian semester?",
+    "ground_truth": "Kemeja putih berkerah, celana hitam, dan sepatu.",
+    "category": "tata_tertib_pakaian"
+  },
+  {
+    "question": "Apa pakaian wajib mahasiswa wanita saat ujian semester?",
+    "ground_truth": "Baju kurung atau melayu putih, rok panjang gelap, jilbab hijau, dan sepatu.",
+    "category": "tata_tertib_pakaian"
+  },
+  {
+    "question": "Apa pakaian mahasiswa pria saat seminar proposal?",
+    "ground_truth": "Kemeja putih lengan panjang, memakai dasi, dan sepatu.",
+    "category": "tata_tertib_pakaian"
+  },
+  {
+    "question": "Apa pakaian mahasiswa wanita saat seminar proposal?",
+    "ground_truth": "Baju kurung putih, rok panjang gelap, jilbab hijau, dan sepatu.",
+    "category": "tata_tertib_pakaian"
+  },
+  {
+    "question": "Apa pakaian mahasiswa pria saat sidang akhir?",
+    "ground_truth": "Kemeja putih, dasi, jas, peci hitam, dan sepatu.",
+    "category": "tata_tertib_pakaian"
+  },
+  {
+    "question": "Apa pakaian mahasiswa wanita saat sidang akhir?",
+    "ground_truth": "Baju kurung putih, rok panjang gelap, jilbab hijau, dan sepatu.",
+    "category": "tata_tertib_pakaian"
+  },
+  {
+    "question": "Apa saja bentuk kegiatan perkuliahan?",
+    "ground_truth": "Bentuk kegiatan perkuliahan meliputi ceramah, diskusi, seminar, responsi, studi kasus, studi lapangan, praktikum, dan kegiatan lainnya.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Apa yang menjadi acuan jadwal perkuliahan?",
+    "ground_truth": "Kalender akademik dan jadwal yang ditetapkan fakultas.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Apa yang harus dilakukan dosen sebelum perkuliahan?",
+    "ground_truth": "Menyusun dan mempersiapkan program perkuliahan.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Apa yang dijelaskan dosen pada pertemuan pertama?",
+    "ground_truth": "Silabus, bahan bacaan, tugas, sistem penilaian, dan tata tertib perkuliahan.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Bagaimana penunjukan asisten perkuliahan dilakukan?",
+    "ground_truth": "Harus mendapat persetujuan pimpinan fakultas dan ditetapkan melalui SK Rektor.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Apa yang harus dilakukan jika dosen berhalangan hadir?",
+    "ground_truth": "Mengganti jadwal di hari lain dan memberitahukan ke fakultas serta mahasiswa.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Apa kewajiban dosen selama perkuliahan terkait diskusi?",
+    "ground_truth": "Menyediakan waktu untuk diskusi atau tanya jawab.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Apa yang harus dijaga selama perkuliahan?",
+    "ground_truth": "Ketertiban, ketenangan, kenyamanan, dan kesopanan.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Kapan mahasiswa harus hadir di kelas sebelum kuliah?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan minimal 10 menit sebelum kuliah dimulai.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Berapa lama mahasiswa menunggu dosen sebelum boleh meninggalkan kelas?",
+    "ground_truth": "Mahasiswa dapat menunggu dosen maksimal 20 menit sebelum diperbolehkan meninggalkan kelas.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Apa yang dilakukan jika dosen tidak hadir lebih dari 20 menit?",
+    "ground_truth": "Mahasiswa boleh meninggalkan kelas setelah melapor ke fakultas.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Apa sanksi jika dosen tidak mengajar tiga kali berturut-turut?",
+    "ground_truth": "Dapat ditegur dan diganti oleh pimpinan fakultas.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Apa konsekuensi jika mahasiswa tidak hadir tiga kali berturut-turut di awal?",
+    "ground_truth": "Tidak diperbolehkan mengambil mata kuliah tersebut.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Berapa minimal kehadiran mahasiswa untuk mengikuti ujian?",
+    "ground_truth": "Minimal 75 persen kehadiran.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Apakah merokok diperbolehkan di kampus?",
+    "ground_truth": "Tidak, kecuali di tempat khusus yang ditetapkan.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Apa sanksi pelanggaran tata tertib perkuliahan?",
+    "ground_truth": "Dapat dikenakan sanksi sesuai peraturan UIR.",
+    "category": "tata_tertib_perkuliahan"
+  },
+  {
+    "question": "Apa syarat mengikuti ujian semester?",
+    "ground_truth": "Kehadiran minimal 75 persen, melunasi keuangan, dan memenuhi syarat fakultas.",
+    "category": "tata_tertib_ujian"
+  },
+  {
+    "question": "Apa yang wajib dibawa saat ujian semester?",
+    "ground_truth": "KRS yang telah dicap lunas.",
+    "category": "tata_tertib_ujian"
+  },
+  {
+    "question": "Kapan peserta ujian harus hadir di ruangan?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan paling lambat 10 menit sebelum ujian dimulai.",
+    "category": "tata_tertib_ujian"
+  },
+  {
+    "question": "Apa konsekuensi jika peserta ujian terlambat?",
+    "ground_truth": "Tidak diberikan tambahan waktu.",
+    "category": "tata_tertib_ujian"
+  },
+  {
+    "question": "Apa yang tidak boleh dibawa saat ujian?",
+    "ground_truth": "Buku catatan, referensi, atau materi lain tanpa izin.",
+    "category": "tata_tertib_ujian"
+  },
+  {
+    "question": "Apa larangan selama ujian berlangsung?",
+    "ground_truth": "Tidak boleh merokok, berbicara, melihat peserta lain, atau mengganggu ketertiban.",
+    "category": "tata_tertib_ujian"
+  },
+  {
+    "question": "Apa aturan terkait perlengkapan ujian?",
+    "ground_truth": "Harus membawa sendiri dan tidak boleh saling meminjam.",
+    "category": "tata_tertib_ujian"
+  },
+  {
+    "question": "Apakah mahasiswa boleh bekerja sama saat ujian?",
+    "ground_truth": "Tidak boleh bekerja sama atau saling membantu.",
+    "category": "tata_tertib_ujian"
+  },
+  {
+    "question": "Apakah peserta boleh membawa soal keluar ruangan?",
+    "ground_truth": "Tidak diperbolehkan selama ujian berlangsung.",
+    "category": "tata_tertib_ujian"
+  },
+  {
+    "question": "Apa sanksi jika melakukan kecurangan saat ujian?",
+    "ground_truth": "Dikenakan sanksi akademik sesuai peraturan UIR.",
+    "category": "tata_tertib_ujian"
+  },
+  {
+    "question": "Apa wewenang pengawas jika terjadi pelanggaran ujian?",
+    "ground_truth": "Melarang ikut ujian, menyita kertas, menghentikan ujian, atau memberi sanksi.",
+    "category": "tata_tertib_ujian"
+  },
+  {
+    "question": "Apa syarat mahasiswa pindahan ke UIR?",
+    "ground_truth": "Harus dari kampus dengan akreditasi minimal sama, semester 2-6, dan IPK minimal 2.50 atau 2.75.",
+    "category": "admisi"
+  },
+  {
+    "question": "Kapan jadwal penerimaan mahasiswa pindahan UIR?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan 1 Juni sampai 31 Agustus setiap tahun.",
+    "category": "admisi"
+  },
+  {
+    "question": "Bagaimana cara mendapatkan akun PMB untuk mahasiswa pindahan?",
+    "ground_truth": "Mengirim SMS dengan format tertentu ke 92962.",
+    "category": "admisi"
+  },
+  {
+    "question": "Apa saja dokumen mahasiswa pindahan?",
+    "ground_truth": "Surat pindah, ijazah SMA, transkrip, KTP, SKCK, dan KHS terakhir.",
+    "category": "admisi"
+  },
+  {
+    "question": "Apa yang terjadi setelah verifikasi mahasiswa pindahan disetujui?",
+    "ground_truth": "Mendapat virtual account untuk pembayaran konversi Rp1.000.000.",
+    "category": "admisi"
+  },
+  {
+    "question": "Bagaimana cara mengakses SIKAD UIR?",
+    "ground_truth": "Melalui website sikad.uir.ac.id.",
+    "category": "sistem akademik"
+  },
+  {
+    "question": "Apa username dan password login SIKAD?",
+    "ground_truth": "Username NPM dan password tanggal lahir.",
+    "category": "sistem akademik"
+  },
+  {
+    "question": "Apa yang harus dilakukan saat pertama login SIKAD?",
+    "ground_truth": "Melengkapi data pribadi.",
+    "category": "sistem akademik"
+  },
+  {
+    "question": "Apa saja menu utama SIKAD?",
+    "ground_truth": "Informasi akademik, KRS, KHS, transkrip, keuangan, dan lainnya.",
+    "category": "sistem akademik"
+  },
+  {
+    "question": "Apa syarat pengisian KRS?",
+    "ground_truth": "Harus membayar UKT atau SPP terlebih dahulu.",
+    "category": "registrasi akademik"
+  },
+  {
+    "question": "Bagaimana login untuk mengisi KRS?",
+    "ground_truth": "Login SIKAD menggunakan NPM dan password tanggal lahir.",
+    "category": "registrasi akademik"
+  },
+  {
+    "question": "Bagaimana proses pengisian KRS?",
+    "ground_truth": "Memilih mata kuliah di SIKAD sesuai rencana studi.",
+    "category": "registrasi akademik"
+  },
+  {
+    "question": "Bagaimana cara mencetak KRS?",
+    "ground_truth": "Dicetak di kertas HVS ukuran A4.",
+    "category": "registrasi akademik"
+  },
+  {
+    "question": "Apakah perlu konsultasi sebelum KRS disahkan?",
+    "ground_truth": "Ya, dengan dosen penasehat akademik.",
+    "category": "registrasi akademik"
+  },
+  {
+    "question": "Siapa yang memverifikasi KRS?",
+    "ground_truth": "KRS diverifikasi oleh operator IT di fakultas.",
+    "category": "registrasi akademik"
+  },
+  {
+    "question": "Bagaimana pembayaran SKS dilakukan?",
+    "ground_truth": "Melalui bank sesuai jumlah SKS di SIKAD.",
+    "category": "registrasi akademik"
+  },
+  {
+    "question": "Bagaimana pengajuan mata kuliah skripsi?",
+    "ground_truth": "Melapor ke operator IT agar menu dibuka.",
+    "category": "skripsi"
+  },
+  {
+    "question": "Bagaimana pengisian data skripsi di SIKAD?",
+    "ground_truth": "Mengisi data skripsi lengkap di menu skripsi.",
+    "category": "skripsi"
+  },
+  {
+    "question": "Apa fungsi kartu bimbingan skripsi?",
+    "ground_truth": "Dibawa saat konsultasi dengan pembimbing.",
+    "category": "skripsi"
+  },
+  {
+    "question": "Apa itu perubahan KRS?",
+    "ground_truth": "Perubahan mata kuliah setelah KRS diisi.",
+    "category": "registrasi akademik"
+  },
+  {
+    "question": "Kapan batas perubahan KRS?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan maksimal 4 minggu setelah kuliah dimulai.",
+    "category": "registrasi akademik"
+  },
+  {
+    "question": "Bagaimana prosedur perubahan KRS?",
+    "ground_truth": "Isi formulir dan diajukan melalui program studi.",
+    "category": "registrasi akademik"
+  },
+  {
+    "question": "Kapan penghapusan nilai dilakukan?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan jika ada nilai ganda karena pengulangan mata kuliah.",
+    "category": "nilai akademik"
+  },
+  {
+    "question": "Bagaimana prosedur penghapusan nilai?",
+    "ground_truth": "Konsultasi dengan DPA lalu isi formulir di DPP.",
+    "category": "nilai akademik"
+  },
+  {
+    "question": "Bagaimana cara mencetak KHS?",
+    "ground_truth": "KHS dapat dicetak melalui sistem SIKAD.",
+    "category": "dokumen akademik"
+  },
+  {
+    "question": "Bagaimana cara mencetak transkrip nilai?",
+    "ground_truth": "transkrip nilai dapat dicetak melalui sistem SIKAD.",
+    "category": "dokumen akademik"
+  },
+  {
+    "question": "Bagaimana cara membuat KTM pengganti?",
+    "ground_truth": "Upload foto dengan jaket almamater.",
+    "category": "administrasi mahasiswa"
+  },
+  {
+    "question": "Berapa biaya KTM pengganti?",
+    "ground_truth": "Biaya pembuatan KTM pengganti adalah Rp100.000.",
+    "category": "administrasi mahasiswa"
+  },
+  {
+    "question": "Di mana mengambil KTM pengganti?",
+    "ground_truth": "Informasi tersebut dapat diperoleh di DPP setelah ada pemberitahuan.",
+    "category": "administrasi mahasiswa"
+  },
+  {
+    "question": "Apa itu cuti akademik?",
+    "ground_truth": "Masa tidak mengikuti kegiatan akademik.",
+    "category": "status mahasiswa"
+  },
+  {
+    "question": "Berapa maksimal cuti akademik?",
+    "ground_truth": "4 semester dan tidak berturut-turut.",
+    "category": "status mahasiswa"
+  },
+  {
+    "question": "Berapa biaya cuti akademik?",
+    "ground_truth": "Rp500.000 per semester.",
+    "category": "status mahasiswa"
+  },
+  {
+    "question": "Bagaimana cara mengajukan cuti?",
+    "ground_truth": "Melalui SIKAD sebelum UTS.",
+    "category": "status mahasiswa"
+  },
+  {
+    "question": "Apa syarat mengikuti wisuda?",
+    "ground_truth": "Telah lulus skripsi dan memenuhi syarat akademik.",
+    "category": "kelulusan"
+  },
+  {
+    "question": "Bagaimana cara daftar wisuda?",
+    "ground_truth": "Melalui website wisuda UIR.",
+    "category": "kelulusan"
+  },
+  {
+    "question": "Apa dokumen wisuda?",
+    "ground_truth": "Berita acara, ijazah SMA, bebas administrasi, KTP, dan skripsi.",
+    "category": "kelulusan"
+  },
+  {
+    "question": "Apa itu tugas akhir?",
+    "ground_truth": "Karya ilmiah sebagai syarat lulus sarjana.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa syarat mengambil tugas akhir?",
+    "ground_truth": "Minimal 120 SKS dan IPK 2.50.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Siapa pembimbing tugas akhir?",
+    "ground_truth": "Pembimbing tugas akhir ditentukan oleh program studi sesuai dengan bidang keilmuan.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa kualifikasi pembimbing TA?",
+    "ground_truth": "Minimal S2 dan memiliki publikasi.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa tugas pembimbing TA?",
+    "ground_truth": "Membimbing penelitian dan penulisan.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apakah pembimbing wajib hadir saat seminar?",
+    "ground_truth": "Ya.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa tugas penguji?",
+    "ground_truth": "Menilai mahasiswa dan penelitian.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Bagaimana menentukan topik TA?",
+    "ground_truth": "Diskusi dengan dosen.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Bagaimana pengajuan proposal TA?",
+    "ground_truth": "Diajukan ke program studi.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa yang terjadi jika proposal diterima?",
+    "ground_truth": "Dilanjutkan SK pembimbing.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa yang dilakukan jika proposal ditolak?",
+    "ground_truth": "Perbaiki dan ajukan ulang.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apakah wajib konsultasi proposal?",
+    "ground_truth": "Ya dan dicatat di kartu bimbingan.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Berapa minimal bimbingan proposal?",
+    "ground_truth": "4 kali.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Bagaimana daftar seminar proposal?",
+    "ground_truth": "Serahkan proposal 3 eksemplar.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Bagaimana pelaksanaan seminar proposal?",
+    "ground_truth": "Terbuka dengan pembimbing dan penguji.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa hasil seminar proposal?",
+    "ground_truth": "Mengulang atau tidak.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa setelah seminar proposal?",
+    "ground_truth": "Melakukan penelitian.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Berapa minimal bimbingan TA?",
+    "ground_truth": "8 kali.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Berapa durasi pengerjaan TA?",
+    "ground_truth": "Maksimal 1 semester.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa batas maksimal TA?",
+    "ground_truth": "2 semester.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa syarat seminar proposal?",
+    "ground_truth": "120 SKS, bayar SPP, dan proposal disetujui.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Bagaimana sidang TA?",
+    "ground_truth": "Dilakukan tertutup oleh tim penguji.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa komponen penilaian TA?",
+    "ground_truth": "Teori, metodologi, dan presentasi.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa hasil sidang TA?",
+    "ground_truth": "Lulus atau gagal.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa syarat sidang TA?",
+    "ground_truth": "IPK 2.75, TOEFL 450, dan syarat lain.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa syarat administrasi sidang TA?",
+    "ground_truth": "SPP lunas dan disetujui pembimbing.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa yang dilakukan setelah sidang TA?",
+    "ground_truth": "Melakukan revisi.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Berapa waktu revisi TA?",
+    "ground_truth": "Maksimal 2 minggu.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa setelah selesai TA?",
+    "ground_truth": "Melengkapi syarat wisuda.",
+    "category": "tugas_akhir"
+  },
+  {
+    "question": "Apa itu kerja praktek?",
+    "ground_truth": "Kegiatan belajar melalui pengalaman langsung di instansi.",
+    "category": "kerja praktek"
+  },
+  {
+    "question": "Apa tujuan kerja praktek?",
+    "ground_truth": "Memberikan pengalaman kerja dan wawasan.",
+    "category": "kerja praktek"
+  },
+  {
+    "question": "Apa manfaat kerja praktek?",
+    "ground_truth": "Memahami dunia kerja dan mengumpulkan data TA.",
+    "category": "kerja praktek"
+  },
+  {
+    "question": "Apa syarat mengambil KP?",
+    "ground_truth": "Minimal 90 SKS, IPK 2.75, tanpa nilai E.",
+    "category": "persyaratan kp"
+  },
+  {
+    "question": "Kapan pengajuan KP dilakukan?",
+    "ground_truth": "Kegiatan tersebut dilaksanakan awal semester (Juli–September atau Januari–Maret).",
+    "category": "prosedur kp"
+  },
+  {
+    "question": "Bagaimana prosedur KP?",
+    "ground_truth": "Daftar di SiPA, upload dokumen, lalu diverifikasi.",
+    "category": "prosedur kp"
+  },
+  {
+    "question": "Bagaimana penentuan dosen pembimbing KP?",
+    "ground_truth": "Ditentukan prodi sesuai bidang.",
+    "category": "pembimbing kp"
+  },
+  {
+    "question": "Berapa durasi KP?",
+    "ground_truth": "6–8 minggu.",
+    "category": "pelaksanaan kp"
+  },
+  {
+    "question": "Berapa minimal bimbingan KP?",
+    "ground_truth": "Minimal 3 kali.",
+    "category": "pelaksanaan kp"
+  },
+  {
+    "question": "Apa struktur laporan KP?",
+    "ground_truth": "Pendahuluan, deskripsi, pembahasan, kesimpulan.",
+    "category": "laporan kp"
+  },
+  {
+    "question": "Apa isi bab pendahuluan KP?",
+    "ground_truth": "Latar belakang, tujuan, manfaat.",
+    "category": "laporan kp"
+  },
+  {
+    "question": "Apa isi bab deskripsi KP?",
+    "ground_truth": "Profil instansi dan kegiatan.",
+    "category": "laporan kp"
+  },
+  {
+    "question": "Apa isi bab pembahasan KP?",
+    "ground_truth": "Kegiatan dan analisis.",
+    "category": "laporan kp"
+  },
+  {
+    "question": "Apa isi kesimpulan KP?",
+    "ground_truth": "Kesimpulan dan saran.",
+    "category": "laporan kp"
+  },
+  {
+    "question": "Di mana KP bisa dilakukan?",
+    "ground_truth": "Kerja praktek dapat dilakukan di berbagai instansi yang berbadan hukum seperti instansi pemerintah, perusahaan swasta, perusahaan teknologi, operator telekomunikasi, lembaga penelitian, rumah sakit, industri manufaktur, perusahaan perbankan, perusahaan minyak dan pertambangan, perusahaan transportasi, serta lembaga lainnya yang relevan dengan bidang teknologi informasi.",
+    "category": "tempat kp"
+  }
+]

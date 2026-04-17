@@ -1,0 +1,298 @@
+[
+{
+"id":"ukt_001",
+"category":"pembayaran_ukt",
+"title":"Informasi Umum Pembayaran UKT",
+"method":"informasi",
+"bank":"",
+"description":"Pembayaran Uang Kuliah Tunggal (UKT) merupakan kewajiban mahasiswa Universitas Islam Riau yang harus dipenuhi pada setiap awal semester. Pembayaran UKT menjadi syarat untuk dapat melakukan proses akademik termasuk pengisian KRS melalui Sistem Informasi Akademik (SIKAD).",
+"steps":[],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_002",
+"category":"pembayaran_ukt",
+"title":"Ketentuan Pembayaran UKT",
+"method":"informasi",
+"bank":"",
+"description":"Mahasiswa wajib melunasi pembayaran UKT sebelum melakukan pengisian KRS dan mahasiswa yang belum melunasi pembayaran UKT tidak dapat melanjutkan proses akademik pada semester berjalan.",
+"steps":[],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_003",
+"category":"pembayaran_ukt",
+"title":"Metode Pembayaran UKT",
+"method":"informasi",
+"bank":"",
+"description":"Pembayaran UKT dapat dilakukan melalui teller bank, ATM, internet banking atau mobile banking, serta transfer bank melalui bank mitra Universitas Islam Riau.",
+"steps":[],
+"source":"Panduan Pembayaran UKT UIR"
+},
+
+{
+"id":"ukt_004",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui teller",
+"method":"teller",
+"bank":"BPR Unisritama",
+"description":"Pembayaran UKT melalui teller BPR Unisritama.",
+"steps":[
+"Datang ke BPR Unisritama di Kampus UIR atau Jl. Soekarno Hatta No.03 Kubang Pekanbaru",
+"Menuliskan Nomor Pokok Mahasiswa (NPM) pada struk pembayaran",
+"Menyerahkan uang tunai kepada teller"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_005",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui teller",
+"method":"teller",
+"bank":"Bank Syariah Indonesia (BSI)",
+"description":"Pembayaran UKT melalui teller Bank Syariah Indonesia.",
+"steps":[
+"Datang ke Bank Syariah Indonesia di Kampus UIR atau cabang seluruh Indonesia",
+"Menuliskan Nomor Pokok Mahasiswa (NPM) pada struk pembayaran",
+"Menyerahkan uang tunai kepada teller"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_006",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui teller",
+"method":"teller",
+"bank":"Bank Mega Syariah",
+"description":"Pembayaran UKT melalui teller Bank Mega Syariah.",
+"steps":[
+"Datang ke Bank Mega Syariah",
+"Menuliskan Nomor Pokok Mahasiswa (NPM) pada struk pembayaran",
+"Menyerahkan uang tunai kepada teller"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_007",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui teller",
+"method":"teller",
+"bank":"Bank Negara Indonesia (BNI)",
+"description":"Pembayaran UKT melalui teller Bank BNI.",
+"steps":[
+"Datang ke Bank BNI di seluruh Indonesia",
+"Menuliskan Nomor Pokok Mahasiswa (NPM) pada struk pembayaran",
+"Menyerahkan uang tunai kepada teller"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_008",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui teller",
+"method":"teller",
+"bank":"Bank Riau Kepri",
+"description":"Pembayaran UKT melalui teller Bank Riau Kepri.",
+"steps":[
+"Datang ke Bank Riau Kepri",
+"Menuliskan Nomor Pokok Mahasiswa (NPM) pada struk pembayaran",
+"Menyerahkan uang tunai kepada teller"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_009",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui teller",
+"method":"teller",
+"bank":"BTN Syariah",
+"description":"Pembayaran UKT melalui teller BTN Syariah.",
+"steps":[
+"Datang ke Bank Tabungan Negara (BTN) Syariah",
+"Menuliskan Nomor Pokok Mahasiswa (NPM) pada struk pembayaran",
+"Menyerahkan uang tunai kepada teller"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+
+{
+"id":"ukt_010",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui ATM",
+"method":"ATM",
+"bank":"Bank Syariah Indonesia (BSI)",
+"description":"Pembayaran UKT melalui ATM BSI.",
+"steps":[
+"Masukkan kartu ATM dan PIN",
+"Pilih menu Pembayaran",
+"Pilih menu Akademik atau Institusi",
+"Masukkan kode institusi UIR 2661 diikuti Nomor Pokok Mahasiswa (NPM)",
+"Masukkan nominal pembayaran",
+"Ikuti petunjuk hingga transaksi selesai"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_011",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui ATM",
+"method":"ATM",
+"bank":"Bank Mega Syariah",
+"description":"Pembayaran UKT melalui ATM Bank Mega Syariah.",
+"steps":[
+"Masukkan kartu ATM dan PIN",
+"Pilih menu Pembayaran",
+"Pilih menu E-Payment",
+"Masukkan 5069005 diikuti Nomor Pokok Mahasiswa (NPM)",
+"Detail tagihan akan ditampilkan",
+"Ikuti petunjuk hingga transaksi selesai"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_012",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui ATM",
+"method":"ATM",
+"bank":"Bank Negara Indonesia (BNI)",
+"description":"Pembayaran UKT melalui ATM BNI.",
+"steps":[
+"Masukkan kartu ATM dan PIN",
+"Pilih menu Pembayaran",
+"Pilih menu Universitas",
+"Pilih menu Student Payment Center (SPC)",
+"Masukkan 8052 diikuti Nomor Pokok Mahasiswa (NPM)",
+"Detail tagihan akan ditampilkan",
+"Ikuti petunjuk hingga transaksi selesai"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_013",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui ATM",
+"method":"ATM",
+"bank":"BTN Syariah",
+"description":"Pembayaran UKT melalui ATM BTN Syariah.",
+"steps":[
+"Masukkan kartu ATM dan PIN",
+"Pilih menu Transaksi Lainnya",
+"Pilih menu Pembayaran",
+"Pilih menu Multipayment",
+"Pilih menu Virtual Account",
+"Masukkan nomor virtual account 70001006 diikuti Nomor Pokok Mahasiswa (NPM)",
+"Detail tagihan akan ditampilkan",
+"Ikuti petunjuk hingga transaksi selesai"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+
+{
+"id":"ukt_014",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui Mobile Banking",
+"method":"mobile_banking",
+"bank":"Bank Syariah Indonesia (BSI)",
+"description":"Pembayaran UKT melalui aplikasi BSI Mobile.",
+"steps":[
+"Login ke aplikasi BSI Mobile",
+"Pilih menu Bayar",
+"Pilih menu Akademik",
+"Pilih nama akademik 2661 – UIR",
+"Masukkan Nomor Pokok Mahasiswa (NPM)",
+"Detail tagihan akan ditampilkan",
+"Ikuti petunjuk hingga transaksi selesai"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_015",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui Mobile Banking",
+"method":"mobile_banking",
+"bank":"Bank Mega Syariah",
+"description":"Pembayaran UKT melalui aplikasi Mega Syariah Mobile.",
+"steps":[
+"Login ke aplikasi Mega Syariah Mobile",
+"Pilih menu Pembayaran",
+"Pilih menu MS VA",
+"Masukkan 5069005 diikuti Nomor Pokok Mahasiswa (NPM)",
+"Pilih daftar virtual account UIR",
+"Detail tagihan akan ditampilkan",
+"Ikuti petunjuk hingga transaksi selesai"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_016",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui Mobile Banking",
+"method":"mobile_banking",
+"bank":"Bank Negara Indonesia (BNI)",
+"description":"Pembayaran UKT melalui aplikasi BNI Mobile.",
+"steps":[
+"Login ke aplikasi BNI Mobile",
+"Pilih menu Pembayaran",
+"Pilih menu Biaya Pendidikan",
+"Pilih jenis layanan Pembayaran",
+"Pilih perguruan tinggi Universitas Islam Riau",
+"Masukkan nomor billing menggunakan Nomor Pokok Mahasiswa (NPM)",
+"Ikuti petunjuk hingga transaksi selesai"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_017",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui Mobile Banking",
+"method":"mobile_banking",
+"bank":"BTN Syariah",
+"description":"Pembayaran UKT melalui aplikasi BTN Syariah Mobile.",
+"steps":[
+"Login ke aplikasi BTN Syariah Mobile",
+"Pilih menu Pembayaran",
+"Pilih menu Virtual Account",
+"Masukkan nomor virtual account 70001006 diikuti Nomor Pokok Mahasiswa (NPM)",
+"Detail tagihan akan ditampilkan",
+"Ikuti petunjuk hingga transaksi selesai"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+{
+"id":"ukt_018",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui Mobile Banking",
+"method":"mobile_banking",
+"bank":"BRK Syariah",
+"description":"Pembayaran UKT melalui aplikasi BRKS Mobile.",
+"steps":[
+"Buka aplikasi BRKS Mobile",
+"Pilih menu Pembayaran",
+"Pilih menu Universitas",
+"Pilih Universitas Islam Riau",
+"Masukkan Nomor Pokok Mahasiswa (NPM)",
+"Klik tombol LANJUT",
+"Periksa detail tagihan dan lakukan konfirmasi",
+"Ikuti petunjuk hingga transaksi selesai"
+],
+"source":"Panduan Pembayaran UKT UIR"
+},
+
+{
+"id":"ukt_019",
+"category":"pembayaran_ukt",
+"title":"Pembayaran melalui Transfer Bank",
+"method":"transfer",
+"bank":"Bank Mandiri",
+"description":"Pembayaran UKT melalui transfer bank Mandiri.",
+"steps":[
+"Transfer melalui ATM, internet banking atau mobile banking Bank Mandiri",
+"Jika tujuan transfer ke Bank Syariah Indonesia gunakan kode bank 451 diikuti 9002661 dan NPM",
+"Jika tujuan transfer ke Bank Mega Syariah gunakan kode bank 506 diikuti 9005 dan NPM",
+"Jika tujuan transfer ke BTN Syariah gunakan kode bank 200 diikuti virtual account 70001006 dan NPM",
+"Masukkan nominal pembayaran sesuai tagihan",
+"Ikuti petunjuk hingga transaksi selesai"
+],
+"source":"Panduan Pembayaran UKT UIR"
+}
+]

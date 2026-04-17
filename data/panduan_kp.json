@@ -1,0 +1,92 @@
+[
+{
+"id":"kp_1",
+"title":"Pengertian Kerja Praktek",
+"category":"kerja praktek",
+"content":"Kerja Praktek (KP) adalah bentuk pendidikan yang memberikan pengalaman belajar kepada mahasiswa melalui keterlibatan langsung dalam kegiatan di instansi, perusahaan, lembaga pendidikan, lembaga pemerintahan, maupun organisasi lain yang relevan dengan bidang Teknik Informatika."
+},
+{
+"id":"kp_2",
+"title":"Tujuan Kerja Praktek",
+"category":"kerja praktek",
+"content":"Tujuan pelaksanaan kerja praktek adalah memberikan pengalaman praktik kepada mahasiswa sesuai bidang Teknik Informatika, memberikan gambaran nyata mengenai lingkungan kerja, serta menambah wawasan mahasiswa dari pengalaman kerja di instansi tempat pelaksanaan KP."
+},
+{
+"id":"kp_3",
+"title":"Manfaat Kerja Praktek",
+"category":"kerja praktek",
+"content":"Manfaat kerja praktek antara lain mahasiswa dapat memahami kebutuhan pekerjaan di tempat KP, menyesuaikan diri dengan lingkungan kerja, melihat penggunaan teknologi informasi secara langsung, menyusun laporan hasil kegiatan KP, serta memperoleh data yang dapat digunakan untuk pengembangan tugas akhir."
+},
+{
+"id":"kp_4",
+"title":"Persyaratan Mengambil Kerja Praktek",
+"category":"persyaratan kp",
+"content":"Mahasiswa yang dapat mengikuti kerja praktek harus memenuhi syarat yaitu mahasiswa aktif kuliah, telah menyelesaikan minimal 90 SKS tanpa nilai E, sedang atau telah mengambil mata kuliah Metodologi Penelitian, serta memiliki IPK minimal 2.75."
+},
+{
+"id":"kp_5",
+"title":"Periode Pengajuan Kerja Praktek",
+"category":"prosedur kp",
+"content":"Pengajuan kerja praktek dilakukan pada awal semester. Pada semester ganjil pengajuan dilakukan pada periode Juli hingga September, sedangkan pada semester genap pengajuan dilakukan pada periode Januari hingga Maret."
+},
+{
+"id":"kp_6",
+"title":"Prosedur Pengajuan Kerja Praktek",
+"category":"prosedur kp",
+"content":"Mahasiswa mengajukan kerja praktek melalui Sistem Pelaporan Akademik (SiPA) dengan melakukan registrasi akun, login ke sistem, mengunggah dokumen persyaratan seperti bukti pembayaran SPP, transkrip nilai, dan proposal KP. Setelah itu berkas akan diverifikasi oleh tata usaha dan program studi sebelum penentuan dosen pembimbing."
+},
+{
+"id":"kp_7",
+"title":"Penentuan Dosen Pembimbing Kerja Praktek",
+"category":"pembimbing kp",
+"content":"Dosen pembimbing kerja praktek ditentukan oleh program studi dengan mempertimbangkan kesesuaian bidang keilmuan. Setiap mahasiswa memiliki satu dosen pembimbing dengan kualifikasi minimal S2 Teknik Informatika."
+},
+{
+"id":"kp_8",
+"title":"Durasi Pelaksanaan Kerja Praktek",
+"category":"pelaksanaan kp",
+"content":"Durasi pelaksanaan kerja praktek minimal adalah 6 sampai 8 minggu dengan jam kerja sekitar 7 hingga 8 jam per hari selama lima hari kerja dalam satu minggu."
+},
+{
+"id":"kp_9",
+"title":"Bimbingan Kerja Praktek",
+"category":"pelaksanaan kp",
+"content":"Mahasiswa wajib melakukan bimbingan dengan dosen pembimbing minimal tiga kali. Satu kali bimbingan untuk proposal KP dan dua kali bimbingan untuk laporan KP."
+},
+{
+"id":"kp_10",
+"title":"Struktur Laporan Kerja Praktek",
+"category":"laporan kp",
+"content":"Struktur laporan kerja praktek terdiri dari halaman judul, lembar pengesahan, kata pengantar, daftar isi, daftar gambar, daftar tabel, Bab I Pendahuluan, Bab II Deskripsi Kerja Praktek, Bab III Pelaksanaan dan Pembahasan, Bab IV Kesimpulan dan Saran, daftar pustaka, serta lampiran."
+},
+{
+"id":"kp_11",
+"title":"Isi Bab Pendahuluan Laporan KP",
+"category":"laporan kp",
+"content":"Bab pendahuluan dalam laporan KP berisi latar belakang pelaksanaan kerja praktek, tujuan kegiatan kerja praktek, manfaat kegiatan kerja praktek, dan ringkasan sistematika penulisan laporan."
+},
+{
+"id":"kp_12",
+"title":"Isi Bab Deskripsi Kerja Praktek",
+"category":"laporan kp",
+"content":"Bab deskripsi kerja praktek berisi waktu pelaksanaan KP, tempat pelaksanaan KP, profil instansi tempat KP, struktur organisasi instansi, lokasi unit kerja, serta program kerja praktek yang dilakukan."
+},
+{
+"id":"kp_13",
+"title":"Isi Bab Pelaksanaan dan Pembahasan KP",
+"category":"laporan kp",
+"content":"Bab ini menjelaskan kegiatan yang dilakukan selama kerja praktek, teori atau metode yang digunakan, analisis pemecahan masalah, serta pembahasan hasil kerja praktek."
+},
+{
+"id":"kp_14",
+"title":"Kesimpulan dan Saran Laporan KP",
+"category":"laporan kp",
+"content":"Bab penutup berisi kesimpulan dari kegiatan kerja praktek serta saran untuk pengembangan kegiatan atau penelitian selanjutnya."
+},
+{
+"id":"kp_15",
+"title":"Tempat yang Dapat Menjadi Lokasi Kerja Praktek",
+"category":"tempat kp",
+"content":"Kerja praktek dapat dilakukan di berbagai instansi yang berbadan hukum seperti instansi pemerintah, perusahaan swasta, perusahaan teknologi, operator telekomunikasi, lembaga penelitian, rumah sakit, industri manufaktur, perusahaan perbankan, perusahaan minyak dan pertambangan, perusahaan transportasi, serta lembaga lainnya yang relevan dengan bidang teknologi informasi."
+}
+]

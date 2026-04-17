@@ -1,0 +1,227 @@
+[
+{
+"id":"admisi_1",
+"title":"Aturan Mahasiswa Pindahan ke UIR",
+"category":"admisi",
+"content":"Mahasiswa pindahan ke Universitas Islam Riau harus berasal dari perguruan tinggi negeri atau swasta dengan program studi dan status akreditasi minimal sama dengan program studi yang akan dimasuki di UIR. Mahasiswa pindahan diterima minimal pada semester 2 dan maksimal semester 6 dengan IPK minimal 2.50 untuk program studi eksakta dan 2.75 untuk program studi sosial."
+},
+{
+"id":"admisi_2",
+"title":"Jadwal Penerimaan Mahasiswa Pindahan",
+"category":"admisi",
+"content":"Penerimaan mahasiswa pindahan di Universitas Islam Riau dilaksanakan setiap tahun mulai tanggal 1 Juni hingga 31 Agustus."
+},
+{
+"id":"admisi_3",
+"title":"Prosedur Pendaftaran Mahasiswa Pindahan",
+"category":"admisi",
+"content":"Calon mahasiswa pindahan harus mengirim SMS untuk mendapatkan username dan password akun PMB dengan format DAFTAR UIR TRANSFER NOMOR_HP_PENGIRIM ke nomor 92962."
+},
+{
+"id":"admisi_4",
+"title":"Dokumen Mahasiswa Pindahan",
+"category":"admisi",
+"content":"Dokumen yang harus diunggah calon mahasiswa pindahan meliputi surat pindah dari rektor perguruan tinggi asal, ijazah SMA, transkrip nilai universitas asal, KTP, surat keterangan berkelakuan baik, dan KHS semester terakhir."
+},
+{
+"id":"admisi_5",
+"title":"Verifikasi Mahasiswa Pindahan",
+"category":"admisi",
+"content":"Setelah mengisi data dan mengunggah dokumen pada sistem PMB, data calon mahasiswa akan diverifikasi oleh Direktorat Pendidikan dan Pembelajaran. Jika disetujui mahasiswa akan menerima nomor virtual account untuk pembayaran biaya konversi sebesar Rp1.000.000."
+},
+
+{
+"id":"sikad_1",
+"title":"Akses Sistem Informasi Akademik SIKAD",
+"category":"sistem akademik",
+"content":"Sistem Informasi Akademik Universitas Islam Riau dapat diakses melalui alamat website http://sikad.uir.ac.id."
+},
+{
+"id":"sikad_2",
+"title":"Login SIKAD",
+"category":"sistem akademik",
+"content":"Mahasiswa harus login ke SIKAD menggunakan username berupa Nomor Pokok Mahasiswa (NPM) dan password berupa tanggal lahir serta mencentang verifikasi keamanan."
+},
+{
+"id":"sikad_3",
+"title":"Melengkapi Data Mahasiswa di SIKAD",
+"category":"sistem akademik",
+"content":"Pada saat pertama kali login ke SIKAD mahasiswa diwajibkan melengkapi data pribadi pada halaman ubah data sebelum dapat mengakses fitur lainnya."
+},
+{
+"id":"sikad_4",
+"title":"Menu Utama SIKAD",
+"category":"sistem akademik",
+"content":"Halaman utama SIKAD menampilkan berbagai menu seperti informasi akademik, panduan akademik, pengambilan KTM, pendaftaran email universitas, pengisian KRS, pencetakan KHS, pencetakan transkrip nilai, dan informasi keuangan mahasiswa."
+},
+
+{
+"id":"krs_1",
+"title":"Syarat Pengisian KRS",
+"category":"registrasi akademik",
+"content":"Mahasiswa harus membayar SPP dasar atau UKT tahap pertama sebelum dapat melakukan pengisian Kartu Rencana Studi secara online."
+},
+{
+"id":"krs_2",
+"title":"Proses Login untuk Pengisian KRS",
+"category":"registrasi akademik",
+"content":"Mahasiswa login ke SIKAD menggunakan NPM sebagai username dan password standar berupa tanggal lahir."
+},
+{
+"id":"krs_3",
+"title":"Proses Pengisian KRS",
+"category":"registrasi akademik",
+"content":"Mahasiswa memilih mata kuliah yang tersedia pada sistem SIKAD sesuai dengan rencana studi yang akan diambil pada semester tersebut."
+},
+{
+"id":"krs_4",
+"title":"Cetak KRS",
+"category":"registrasi akademik",
+"content":"Setelah mengisi KRS mahasiswa dapat mencetak Kartu Rencana Studi menggunakan kertas HVS ukuran A4."
+},
+{
+"id":"krs_5",
+"title":"Konsultasi KRS dengan DPA",
+"category":"registrasi akademik",
+"content":"Mahasiswa harus berkonsultasi dengan Dosen Penasehat Akademik mengenai mata kuliah yang diambil sebelum KRS disahkan."
+},
+{
+"id":"krs_6",
+"title":"Verifikasi KRS",
+"category":"registrasi akademik",
+"content":"KRS yang telah disahkan oleh dosen penasehat akademik harus diverifikasi oleh operator IT fakultas sebelum mahasiswa dapat melakukan pembayaran SKS."
+},
+{
+"id":"krs_7",
+"title":"Pembayaran SKS",
+"category":"registrasi akademik",
+"content":"Mahasiswa membayar biaya SKS di bank sesuai dengan jumlah SKS yang diambil melalui sistem SIKAD."
+},
+
+{
+"id":"skripsi_1",
+"title":"Pengajuan Mata Kuliah Skripsi",
+"category":"skripsi",
+"content":"Mahasiswa harus melapor kepada operator IT fakultas agar menu skripsi dibuka pada sistem SIKAD."
+},
+{
+"id":"skripsi_2",
+"title":"Pengisian Data Skripsi di SIKAD",
+"category":"skripsi",
+"content":"Mahasiswa login ke SIKAD kemudian memilih menu skripsi dan mengisi seluruh data skripsi secara lengkap."
+},
+{
+"id":"skripsi_3",
+"title":"Kartu Bimbingan Skripsi",
+"category":"skripsi",
+"content":"Mahasiswa wajib mencetak kartu bimbingan skripsi dan membawa kartu tersebut setiap kali melakukan konsultasi dengan dosen pembimbing."
+},
+
+{
+"id":"perubahan_krs_1",
+"title":"Pengajuan Perubahan KRS",
+"category":"registrasi akademik",
+"content":"Perubahan KRS dilakukan jika mahasiswa ingin menambah atau menghapus mata kuliah setelah KRS diisi."
+},
+{
+"id":"perubahan_krs_2",
+"title":"Batas Waktu Perubahan KRS",
+"category":"registrasi akademik",
+"content":"Perubahan KRS dapat diajukan paling lambat empat minggu setelah perkuliahan dimulai."
+},
+{
+"id":"perubahan_krs_3",
+"title":"Prosedur Perubahan KRS",
+"category":"registrasi akademik",
+"content":"Mahasiswa melapor ke program studi dengan mengisi formulir perubahan KRS. Program studi kemudian mengirim email ke Direktorat Pendidikan dan Pembelajaran dengan melampirkan formulir perubahan dan surat pengantar."
+},
+
+{
+"id":"nilai_1",
+"title":"Penghapusan Nilai Mata Kuliah",
+"category":"nilai akademik",
+"content":"Penghapusan nilai dilakukan apabila mahasiswa memiliki nilai lebih dari satu pada mata kuliah yang sama karena pengulangan mata kuliah."
+},
+{
+"id":"nilai_2",
+"title":"Prosedur Penghapusan Nilai",
+"category":"nilai akademik",
+"content":"Mahasiswa berkonsultasi dengan dosen penasehat akademik kemudian mengisi formulir permohonan penghapusan nilai di Direktorat Pendidikan dan Pembelajaran."
+},
+
+{
+"id":"khs_1",
+"title":"Pencetakan KHS di SIKAD",
+"category":"dokumen akademik",
+"content":"Mahasiswa dapat mencetak Kartu Hasil Studi melalui sistem SIKAD untuk melihat nilai yang diperoleh pada setiap semester."
+},
+{
+"id":"khs_2",
+"title":"Pencetakan Transkrip Nilai",
+"category":"dokumen akademik",
+"content":"Mahasiswa dapat mencetak transkrip nilai melalui sistem SIKAD sebagai dokumen resmi daftar seluruh mata kuliah yang telah ditempuh."
+},
+
+{
+"id":"ktm_1",
+"title":"Pembuatan KTM Pengganti",
+"category":"administrasi mahasiswa",
+"content":"Mahasiswa yang kehilangan atau merusak KTM dapat mengajukan pembuatan KTM pengganti dengan mengunggah foto menggunakan jaket almamater."
+},
+{
+"id":"ktm_2",
+"title":"Biaya Pembuatan KTM Pengganti",
+"category":"administrasi mahasiswa",
+"content":"Biaya pembuatan KTM pengganti sebesar Rp100.000 yang dibayarkan melalui Bank Unisritama."
+},
+{
+"id":"ktm_3",
+"title":"Pengambilan KTM Pengganti",
+"category":"administrasi mahasiswa",
+"content":"KTM pengganti dapat diambil di Direktorat Pendidikan dan Pembelajaran setelah mahasiswa menerima pemberitahuan melalui WhatsApp."
+},
+
+{
+"id":"cuti_1",
+"title":"Pengertian Cuti Akademik",
+"category":"status mahasiswa",
+"content":"Cuti akademik adalah masa dimana mahasiswa tidak mengikuti kegiatan akademik karena alasan tertentu."
+},
+{
+"id":"cuti_2",
+"title":"Batas Maksimal Cuti Akademik",
+"category":"status mahasiswa",
+"content":"Mahasiswa hanya dapat mengambil cuti maksimal empat semester selama masa studi dan tidak boleh berturut-turut."
+},
+{
+"id":"cuti_3",
+"title":"Biaya Cuti Akademik",
+"category":"status mahasiswa",
+"content":"Mahasiswa yang mengajukan cuti akademik dikenakan biaya sebesar Rp500.000 per semester."
+},
+{
+"id":"cuti_4",
+"title":"Prosedur Pengajuan Cuti",
+"category":"status mahasiswa",
+"content":"Mahasiswa mengajukan cuti melalui menu cuti pada sistem SIKAD sebelum pelaksanaan Ujian Tengah Semester."
+},
+
+{
+"id":"wisuda_1",
+"title":"Syarat Mengikuti Wisuda",
+"category":"kelulusan",
+"content":"Calon peserta wisuda adalah mahasiswa yang telah menyelesaikan ujian skripsi atau komprehensif dan memenuhi persyaratan akademik."
+},
+{
+"id":"wisuda_2",
+"title":"Pendaftaran Wisuda",
+"category":"kelulusan",
+"content":"Mahasiswa melakukan pendaftaran wisuda melalui website https://wisuda.uir.ac.id dengan mengunggah dokumen yang diperlukan."
+},
+{
+"id":"wisuda_3",
+"title":"Dokumen Wisuda",
+"category":"kelulusan",
+"content":"Dokumen yang harus diunggah pada pendaftaran wisuda meliputi berita acara ujian skripsi, ijazah SMA, surat bebas administrasi, KTP, dan file skripsi."
+}
+]

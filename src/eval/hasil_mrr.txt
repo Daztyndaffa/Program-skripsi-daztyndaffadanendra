@@ -1,0 +1,215 @@
+==============================
+QUERY 1: Apa saja program studi yang tersedia di Fakultas Teknik Universitas Islam Riau?
+==============================
+- Akreditasi Program Studi Fakultas Teknik Program Studi Teknik Sipil, Teknik Perminyakan, Teknik Mesin, Teknik Perencanaan Wilayah dan Kota, Teknik Informatika, dan Teknik Geologi di Fakultas Teknik Universitas Islam Riau masing-masing memiliki akreditasi Baik Sekali.
+- Program Studi Fakultas Teknik UIR Fakultas Teknik Universitas Islam Riau memiliki program studi Teknik Sipil, Teknik Perminyakan, Teknik Mesin, Teknik Perencanaan Wilayah dan Kota, Teknik Informatika, dan Teknik Geologi pada jenjang Sarjana (S1).
+- Akreditasi Program Studi Fakultas Pertanian Program Studi Agroteknologi, Agribisnis, dan Akuakultur (Budidaya Perairan) di Fakultas Pertanian Universitas Islam Riau memiliki akreditasi Unggul.
+- Informasi Umum Fakultas dan Program Studi UIR Universitas Islam Riau memiliki berbagai fakultas dan program studi yang menyelenggarakan pendidikan pada jenjang sarjana, magister, dan doktor di berbagai bidang ilmu.
+- Program Studi Fakultas Agama Islam UIR Fakultas Agama Islam Universitas Islam Riau memiliki program studi Ekonomi Islam, Pendidikan Agama Islam, Pendidikan Islam Anak Usia Dini (PIAUD), Perbankan Syariah, dan Pendidikan Bahasa Arab pada jenjang Sarjana (S1).
+
+==============================
+QUERY 2: Program studi apa yang dimiliki Fakultas Agama Islam UIR pada jenjang S1?
+==============================
+- Program Studi Fakultas Agama Islam UIR Fakultas Agama Islam Universitas Islam Riau memiliki program studi Ekonomi Islam, Pendidikan Agama Islam, Pendidikan Islam Anak Usia Dini (PIAUD), Perbankan Syariah, dan Pendidikan Bahasa Arab pada jenjang Sarjana (S1).
+- Program Studi Fakultas Pertanian UIR Fakultas Pertanian Universitas Islam Riau memiliki program studi Agroteknologi, Agribisnis, dan Akuakultur (Budidaya Perairan) pada jenjang Sarjana (S1).
+- Fakultas Psikologi UIR Fakultas Psikologi Universitas Islam Riau memiliki program studi Psikologi pada jenjang Sarjana (S1) dengan akreditasi B.
+- Fakultas Hukum UIR Fakultas Hukum Universitas Islam Riau memiliki program studi Ilmu Hukum pada jenjang Sarjana (S1) dengan status akreditasi Unggul.
+- Informasi Umum Fakultas dan Program Studi UIR Universitas Islam Riau memiliki berbagai fakultas dan program studi yang menyelenggarakan pendidikan pada jenjang sarjana, magister, dan doktor di berbagai bidang ilmu.
+
+==============================
+QUERY 3: Apa saja program studi yang ditawarkan di Fakultas Ekonomi dan Bisnis UIR?
+==============================
+- Akreditasi Program Studi Fakultas Ekonomi dan Bisnis Program Studi Ekonomi Pembangunan, Manajemen, dan Akuntansi di Fakultas Ekonomi dan Bisnis Universitas Islam Riau memiliki akreditasi Baik Sekali.
+- Program Studi Fakultas Ekonomi dan Bisnis UIR Fakultas Ekonomi dan Bisnis Universitas Islam Riau memiliki program studi Ekonomi Pembangunan, Manajemen, dan Akuntansi pada jenjang Sarjana (S1).
+- Informasi Umum Fakultas dan Program Studi UIR Universitas Islam Riau memiliki berbagai fakultas dan program studi yang menyelenggarakan pendidikan pada jenjang sarjana, magister, dan doktor di berbagai bidang ilmu.
+- Program Studi Fakultas Agama Islam UIR Fakultas Agama Islam Universitas Islam Riau memiliki program studi Ekonomi Islam, Pendidikan Agama Islam, Pendidikan Islam Anak Usia Dini (PIAUD), Perbankan Syariah, dan Pendidikan Bahasa Arab pada jenjang Sarjana (S1).
+- Akreditasi Program Studi FISIPOL Program Studi Administrasi Publik, Administrasi Bisnis, Ilmu Pemerintahan, dan Kriminologi memiliki akreditasi Unggul, sedangkan Program Studi Hubungan Internasional memiliki akreditasi Baik.
+
+==============================
+QUERY 4: Apa saja program beasiswa yang berasal dari Pemerintah Provinsi Riau?
+==============================
+- Beasiswa Pemerintah Provinsi Riau Beberapa program beasiswa yang berasal dari Pemerintah Provinsi Riau antara lain Beasiswa Bidikmisi Bhakti Negeri, Beasiswa Prestasi, Beasiswa Tahfidz Qur’an, Beasiswa Pendidikan S2, dan Beasiswa Pendidikan S3.
+- Beasiswa Pemerintah Daerah Kabupaten Siak Program beasiswa yang berasal dari Pemerintah Daerah Kabupaten Siak adalah Beasiswa Kerjasama Siak.
+- Bantuan Sosial Pendidikan Pemprov Riau Salah satu bantuan pendidikan yang tersedia bagi mahasiswa Universitas Islam Riau adalah Bantuan Sosial Pendidikan (BANSOS) dari Pemerintah Provinsi Riau.
+- Beasiswa Kementerian Pendidikan Beasiswa yang berasal dari Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia yang tersedia bagi mahasiswa adalah program KIP Kuliah.
+- Beasiswa Internal Universitas Islam Riau Program beasiswa yang disediakan oleh Universitas Islam Riau antara lain Beasiswa UIR dan Beasiswa Mahasiswa Asing.
+
+==============================
+QUERY 5: Apa program beasiswa yang disediakan oleh Pemerintah Kabupaten Siak?
+==============================
+- Beasiswa Pemerintah Daerah Kabupaten Siak Program beasiswa yang berasal dari Pemerintah Daerah Kabupaten Siak adalah Beasiswa Kerjasama Siak.
+- Beasiswa Pemerintah Provinsi Riau Beberapa program beasiswa yang berasal dari Pemerintah Provinsi Riau antara lain Beasiswa Bidikmisi Bhakti Negeri, Beasiswa Prestasi, Beasiswa Tahfidz Qur’an, Beasiswa Pendidikan S2, dan Beasiswa Pendidikan S3.
+- Beasiswa Internal Universitas Islam Riau Program beasiswa yang disediakan oleh Universitas Islam Riau antara lain Beasiswa UIR dan Beasiswa Mahasiswa Asing.
+- Bantuan Sosial Pendidikan Kepulauan Meranti Bantuan Sosial Pendidikan dari Pemerintah Kabupaten Kepulauan Meranti merupakan salah satu bentuk bantuan pendidikan yang dapat diterima oleh mahasiswa Universitas Islam Riau.
+- Pembimbing Tugas Akhir Mahasiswa dibimbing oleh satu orang dosen pembimbing yang memiliki keilmuan sesuai dengan topik penelitian. Program studi dapat menunjuk dua pembimbing dengan persetujuan dekan.
+
+==============================
+QUERY 6: Apa saja beasiswa internal yang tersedia di Universitas Islam Riau?
+==============================
+- Beasiswa Internal Universitas Islam Riau Program beasiswa yang disediakan oleh Universitas Islam Riau antara lain Beasiswa UIR dan Beasiswa Mahasiswa Asing.
+- Beasiswa Kementerian Pendidikan Beasiswa yang berasal dari Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia yang tersedia bagi mahasiswa adalah program KIP Kuliah.
+- Bantuan Sosial Pendidikan Pemprov Riau Salah satu bantuan pendidikan yang tersedia bagi mahasiswa Universitas Islam Riau adalah Bantuan Sosial Pendidikan (BANSOS) dari Pemerintah Provinsi Riau.
+- Sumber Informasi Beasiswa UIR Syarat dan ketentuan serta informasi terbaru mengenai beasiswa atau bantuan pendidikan akan dipublikasikan melalui website resmi BAAK Universitas Islam Riau.
+- Sanksi Pelanggaran Tata Tertib Perkuliahan Dosen maupun mahasiswa yang melanggar tata tertib perkuliahan dapat dikenakan sanksi sesuai dengan peraturan yang berlaku di Universitas Islam Riau.
+
+==============================
+QUERY 7: Kapan pelaksanaan usulan dosen pengampu mata kuliah untuk semester ganjil 2025/2026?
+==============================
+- Kegiatan akademik: Usulan dosen pengampu matakuliah ke DLMA Semester: Ganjil 2025/2026 Tanggal pelaksanaan: 18 August 2025 sampai 22 August 2025
+- Kegiatan akademik: Usulan dosen pengampu matakuliah ke DLMA Semester: Genap 2025/2026 Tanggal pelaksanaan: 05 January 2026 sampai 16 January 2026
+- Penghapusan Nilai Mata Kuliah Penghapusan nilai dilakukan apabila mahasiswa memiliki nilai lebih dari satu pada mata kuliah yang sama karena pengulangan mata kuliah.        
+- Kegiatan akademik: Penerbitan SK Rektor pengampu matakuliah Semester: Ganjil 2025/2026 Tanggal pelaksanaan: 08 September 2025 sampai 12 September 2025
+- Konsultasi KRS dengan DPA Mahasiswa harus berkonsultasi dengan Dosen Penasehat Akademik mengenai mata kuliah yang diambil sebelum KRS disahkan.
+
+==============================
+QUERY 8: Kapan kegiatan input pengampu mata kuliah oleh program studi dilaksanakan?
+==============================
+- Kegiatan akademik: Input pengampu matakuliah oleh program studi Semester: Ganjil 2025/2026 Tanggal pelaksanaan: 18 August 2025 sampai 29 August 2025
+- Kegiatan akademik: Input pengampu matakuliah oleh program studi Semester: Genap 2025/2026 Tanggal pelaksanaan: 12 January 2026 sampai 23 January 2026
+- Penghapusan Nilai Mata Kuliah Penghapusan nilai dilakukan apabila mahasiswa memiliki nilai lebih dari satu pada mata kuliah yang sama karena pengulangan mata kuliah.        
+- Sidang Tugas Akhir Sidang tugas akhir dilaksanakan secara tertutup oleh tim penguji yang terdiri dari ketua, sekretaris, dan anggota yang ditentukan oleh program studi.     
+- Proses Pengisian KRS Mahasiswa memilih mata kuliah yang tersedia pada sistem SIKAD sesuai dengan rencana studi yang akan diambil pada semester tersebut.
+
+==============================
+QUERY 9: Kapan verifikasi pengampu mata kuliah oleh DLMA dilakukan pada semester ganjil?
+==============================
+- Kegiatan akademik: Verifikasi pengampu matakuliah oleh DLMA Semester: Ganjil 2025/2026 Tanggal pelaksanaan: 01 September 2025 sampai 05 September 2025
+- Penghapusan Nilai Mata Kuliah Penghapusan nilai dilakukan apabila mahasiswa memiliki nilai lebih dari satu pada mata kuliah yang sama karena pengulangan mata kuliah.
+- Kegiatan akademik: Verifikasi pengampu matakuliah oleh DLMA Semester: Genap 2025/2026 Tanggal pelaksanaan: 26 January 2026 sampai 30 January 2026
+- Kegiatan akademik: Verifikasi data semester antara oleh DLMA Semester: Semester Antara 2026 Tanggal pelaksanaan: 17 June 2026 sampai 22 June 2026
+- Periode Pengajuan Kerja Praktek Pengajuan kerja praktek dilakukan pada awal semester. Pada semester ganjil pengajuan dilakukan pada periode Juli hingga September, sedangkan pada semester genap pengajuan dilakukan pada periode Januari hingga Maret.
+
+==============================
+QUERY 10: Bagaimana prosedur pengisian KRS bagi mahasiswa?
+==============================
+- Syarat Pengisian KRS Mahasiswa harus membayar SPP dasar atau UKT tahap pertama sebelum dapat melakukan pengisian Kartu Rencana Studi secara online.
+- Kegiatan akademik: Pengisian KRS Semester: Genap 2025/2026 Tanggal pelaksanaan: 02 February 2026 sampai 10 April 2026
+- Proses Pengisian KRS Mahasiswa memilih mata kuliah yang tersedia pada sistem SIKAD sesuai dengan rencana studi yang akan diambil pada semester tersebut.
+- Proses Login untuk Pengisian KRS Mahasiswa login ke SIKAD menggunakan NPM sebagai username dan password standar berupa tanggal lahir.
+- Pengajuan Perubahan KRS Perubahan KRS dilakukan jika mahasiswa ingin menambah atau menghapus mata kuliah setelah KRS diisi.
+
+==============================
+QUERY 11: Apa saja syarat sebelum mahasiswa dapat mengisi KRS?
+==============================
+- Syarat Pengisian KRS Mahasiswa harus membayar SPP dasar atau UKT tahap pertama sebelum dapat melakukan pengisian Kartu Rencana Studi secara online.
+- Syarat Seminar Proposal Mahasiswa dapat mengikuti seminar proposal jika telah menyelesaikan 120 SKS, telah membayar SPP dasar, telah mengisi KRS, dan menyerahkan proposal yang disetujui dosen pembimbing.
+- Cetak KRS Setelah mengisi KRS mahasiswa dapat mencetak Kartu Rencana Studi menggunakan kertas HVS ukuran A4.
+- Pengajuan Perubahan KRS Perubahan KRS dilakukan jika mahasiswa ingin menambah atau menghapus mata kuliah setelah KRS diisi.
+- Syarat Mengikuti Ujian Semester Mahasiswa dapat mengikuti ujian semester apabila memiliki kehadiran minimal 75 persen, telah melunasi kewajiban keuangan, serta memenuhi syarat lain yang ditetapkan oleh fakultas.
+
+==============================
+QUERY 12: Bagaimana cara mendapatkan informasi layanan beasiswa di UIR?
+==============================
+- Informasi Layanan Beasiswa Mahasiswa dapat memperoleh informasi lebih lanjut mengenai persyaratan dan alur pengurusan beasiswa dengan menghubungi atau mengunjungi laman Biro Layanan Mahasiswa dan Alumni (BLMA) Universitas Islam Riau.
+- Sumber Informasi Beasiswa UIR Syarat dan ketentuan serta informasi terbaru mengenai beasiswa atau bantuan pendidikan akan dipublikasikan melalui website resmi BAAK Universitas Islam Riau.
+- Informasi Persyaratan Beasiswa Syarat dan ketentuan masing-masing beasiswa atau bantuan pendidikan berbeda-beda sesuai dengan kebijakan lembaga pemberi beasiswa.
+- Beasiswa Pemerintah Provinsi Riau Beberapa program beasiswa yang berasal dari Pemerintah Provinsi Riau antara lain Beasiswa Bidikmisi Bhakti Negeri, Beasiswa Prestasi, Beasiswa Tahfidz Qur’an, Beasiswa Pendidikan S2, dan Beasiswa Pendidikan S3.
+- Informasi Umum Pembayaran UKT Pembayaran Uang Kuliah Tunggal (UKT) merupakan kewajiban mahasiswa Universitas Islam Riau yang harus dipenuhi pada setiap awal semester. Pembayaran UKT menjadi syarat untuk dapat melakukan proses akademik termasuk pengisian KRS melalui Sistem Informasi Akademik (SIKAD). Langkah-langkah:
+
+==============================
+QUERY 13: Bagaimana penentuan dosen pembimbing kerja praktek?
+==============================
+- Penentuan Dosen Pembimbing Kerja Praktek Dosen pembimbing kerja praktek ditentukan oleh program studi dengan mempertimbangkan kesesuaian bidang keilmuan. Setiap mahasiswa memiliki satu dosen pembimbing dengan kualifikasi minimal S2 Teknik Informatika.
+- Penentuan Topik Tugas Akhir Mahasiswa menentukan topik penelitian dengan berdiskusi bersama dosen pembimbing akademik atau calon dosen pembimbing sebelum menyusun proposal tugas akhir.
+- Prosedur Pengajuan Kerja Praktek Mahasiswa mengajukan kerja praktek melalui Sistem Pelaporan Akademik (SiPA) dengan melakukan registrasi akun, login ke sistem, mengunggah dokumen persyaratan seperti bukti pembayaran SPP, transkrip nilai, dan proposal KP. Setelah itu berkas akan diverifikasi oleh tata usaha dan program studi sebelum penentuan dosen pembimbing.
+- Isi Bab Pelaksanaan dan Pembahasan KP Bab ini menjelaskan kegiatan yang dilakukan selama kerja praktek, teori atau metode yang digunakan, analisis pemecahan masalah, serta pembahasan hasil kerja praktek.
+- Bimbingan Kerja Praktek Mahasiswa wajib melakukan bimbingan dengan dosen pembimbing minimal tiga kali. Satu kali bimbingan untuk proposal KP dan dua kali bimbingan untuk laporan KP.
+
+==============================
+QUERY 14: Apa saja tugas dosen pembimbing dalam kerja praktek?
+==============================
+- Penentuan Dosen Pembimbing Kerja Praktek Dosen pembimbing kerja praktek ditentukan oleh program studi dengan mempertimbangkan kesesuaian bidang keilmuan. Setiap mahasiswa memiliki satu dosen pembimbing dengan kualifikasi minimal S2 Teknik Informatika.
+- Penentuan Topik Tugas Akhir Mahasiswa menentukan topik penelitian dengan berdiskusi bersama dosen pembimbing akademik atau calon dosen pembimbing sebelum menyusun proposal tugas akhir.
+- Tugas Pembimbing Tugas Akhir Dosen pembimbing bertugas memberikan arahan kepada mahasiswa dalam melaksanakan penelitian, memberikan petunjuk tentang metode penelitian, memberikan masukan terkait penulisan laporan, mencatat proses bimbingan, memeriksa hasil perbaikan setelah seminar proposal dan sidang tugas akhir, serta memberikan persetujuan kelayakan ujian.
+- Isi Bab Pelaksanaan dan Pembahasan KP Bab ini menjelaskan kegiatan yang dilakukan selama kerja praktek, teori atau metode yang digunakan, analisis pemecahan masalah, serta pembahasan hasil kerja praktek.
+- Kehadiran Pembimbing Dosen pembimbing wajib hadir pada saat pelaksanaan seminar proposal penelitian dan sidang tugas akhir mahasiswa yang dibimbing.
+
+==============================
+QUERY 15: Apa saja tahapan pelaksanaan kerja praktek?
+==============================
+- Durasi Pelaksanaan Kerja Praktek Durasi pelaksanaan kerja praktek minimal adalah 6 sampai 8 minggu dengan jam kerja sekitar 7 hingga 8 jam per hari selama lima hari kerja dalam satu minggu.
+- Isi Bab Deskripsi Kerja Praktek Bab deskripsi kerja praktek berisi waktu pelaksanaan KP, tempat pelaksanaan KP, profil instansi tempat KP, struktur organisasi instansi, lokasi unit kerja, serta program kerja praktek yang dilakukan.
+- Tujuan Kerja Praktek Tujuan pelaksanaan kerja praktek adalah memberikan pengalaman praktik kepada mahasiswa sesuai bidang Teknik Informatika, memberikan gambaran nyata mengenai lingkungan kerja, serta menambah wawasan mahasiswa dari pengalaman kerja di instansi tempat pelaksanaan KP.
+- Isi Bab Pelaksanaan dan Pembahasan KP Bab ini menjelaskan kegiatan yang dilakukan selama kerja praktek, teori atau metode yang digunakan, analisis pemecahan masalah, serta pembahasan hasil kerja praktek.
+- Isi Bab Pendahuluan Laporan KP Bab pendahuluan dalam laporan KP berisi latar belakang pelaksanaan kerja praktek, tujuan kegiatan kerja praktek, manfaat kegiatan kerja praktek, dan ringkasan sistematika penulisan laporan.
+
+==============================
+QUERY 16: Bagaimana proses sidang tugas akhir di UIR?
+==============================
+- Hasil Sidang Tugas Akhir Hasil sidang tugas akhir dapat berupa lulus atau gagal.
+- Perbaikan Setelah Sidang Tugas Akhir Mahasiswa yang dinyatakan lulus sidang tugas akhir harus melakukan perbaikan laporan sesuai dengan masukan penguji.
+- Komponen Penilaian Sidang Tugas Akhir Penilaian sidang tugas akhir meliputi pendahuluan dan sistematika penulisan, pemahaman teori, metodologi penelitian, performa penyajian, dan referensi.
+- Sidang Tugas Akhir Sidang tugas akhir dilaksanakan secara tertutup oleh tim penguji yang terdiri dari ketua, sekretaris, dan anggota yang ditentukan oleh program studi.     
+- Batas Waktu Perbaikan Tugas Akhir Perbaikan laporan tugas akhir harus diselesaikan paling lambat dua minggu setelah mahasiswa dinyatakan lulus sidang.
+
+==============================
+QUERY 17: Siapa saja tim penguji sidang tugas akhir?
+==============================
+- Sidang Tugas Akhir Sidang tugas akhir dilaksanakan secara tertutup oleh tim penguji yang terdiri dari ketua, sekretaris, dan anggota yang ditentukan oleh program studi.
+- Tugas dan Wewenang Penguji Penguji bertugas menilai kemampuan mahasiswa berdasarkan standar kompetensi, menilai kualitas proposal dan laporan tugas akhir, serta menilai sikap mahasiswa dalam mempertahankan penelitian. Penguji berwenang menentukan hasil seminar proposal dan sidang tugas akhir.
+- Perbaikan Setelah Sidang Tugas Akhir Mahasiswa yang dinyatakan lulus sidang tugas akhir harus melakukan perbaikan laporan sesuai dengan masukan penguji.
+- Hasil Sidang Tugas Akhir Hasil sidang tugas akhir dapat berupa lulus atau gagal.
+- Komponen Penilaian Sidang Tugas Akhir Penilaian sidang tugas akhir meliputi pendahuluan dan sistematika penulisan, pemahaman teori, metodologi penelitian, performa penyajian, dan referensi.
+
+==============================
+QUERY 18: Berapa batas waktu perbaikan laporan tugas akhir?
+==============================
+- Batas Waktu Perbaikan Tugas Akhir Perbaikan laporan tugas akhir harus diselesaikan paling lambat dua minggu setelah mahasiswa dinyatakan lulus sidang.
+- Perbaikan Setelah Sidang Tugas Akhir Mahasiswa yang dinyatakan lulus sidang tugas akhir harus melakukan perbaikan laporan sesuai dengan masukan penguji.
+- Batas Maksimal Penyelesaian Tugas Akhir Jika mahasiswa tidak dapat menyelesaikan tugas akhir dalam waktu dua semester berturut-turut, maka mahasiswa harus mengulang pengajuan topik penelitian dari awal.
+- Persiapan Wisuda Setelah Tugas Akhir Setelah menyelesaikan sidang dan perbaikan tugas akhir, mahasiswa harus melengkapi persyaratan wisuda sesuai dengan ketentuan universitas.
+- Batas Waktu Perubahan KRS Perubahan KRS dapat diajukan paling lambat empat minggu setelah perkuliahan dimulai.
+
+==============================
+QUERY 19: Apa saja komponen penilaian sidang tugas akhir?
+==============================
+- Komponen Penilaian Sidang Tugas Akhir Penilaian sidang tugas akhir meliputi pendahuluan dan sistematika penulisan, pemahaman teori, metodologi penelitian, performa penyajian, dan referensi.
+- Hasil Sidang Tugas Akhir Hasil sidang tugas akhir dapat berupa lulus atau gagal.
+- Perbaikan Setelah Sidang Tugas Akhir Mahasiswa yang dinyatakan lulus sidang tugas akhir harus melakukan perbaikan laporan sesuai dengan masukan penguji.
+- Sidang Tugas Akhir Sidang tugas akhir dilaksanakan secara tertutup oleh tim penguji yang terdiri dari ketua, sekretaris, dan anggota yang ditentukan oleh program studi.     
+- Pakaian Sidang Akhir Mahasiswa Pria Mahasiswa pria yang mengikuti sidang akhir atau ujian komprehensif wajib memakai kemeja putih lengan panjang, memakai dasi, memakai jas, memakai peci hitam, dan memakai sepatu.
+
+==============================
+QUERY 20: Apa kewajiban dosen sebelum perkuliahan?
+==============================
+- Persiapan Dosen Sebelum Perkuliahan Sebelum memulai perkuliahan, dosen diwajibkan menyusun dan mempersiapkan program perkuliahan sesuai dengan model yang ditetapkan oleh fakultas.
+- Penentuan Topik Tugas Akhir Mahasiswa menentukan topik penelitian dengan berdiskusi bersama dosen pembimbing akademik atau calon dosen pembimbing sebelum menyusun proposal tugas akhir.
+- Jumlah Minimal Bimbingan Proposal Mahasiswa harus melakukan minimal empat kali konsultasi dengan dosen pembimbing sebelum mendaftar seminar proposal.
+- Ketertiban Selama Perkuliahan Selama kegiatan perkuliahan berlangsung, dosen dan mahasiswa wajib menjaga ketertiban, ketenangan, kenyamanan, serta kesopanan di dalam kelas. 
+- Konsultasi KRS dengan DPA Mahasiswa harus berkonsultasi dengan Dosen Penasehat Akademik mengenai mata kuliah yang diambil sebelum KRS disahkan.
+
+==============================
+QUERY 21: Apa tindakan pengawas saat terjadi pelanggaran ujian?
+==============================
+- Tindakan Pengawas Terhadap Pelanggaran Ujian Pengawas ujian berhak melarang mahasiswa mengikuti ujian, menyita kertas ujian, menghentikan ujian mahasiswa, atau memberikan sanksi akademik apabila terjadi pelanggaran tata tertib ujian.
+- Larangan Membawa Catatan Saat Ujian Peserta ujian tidak diperbolehkan membawa buku catatan, buku referensi, atau materi lain ke dalam ruangan ujian kecuali mendapat izin dari pengawas atau dosen penguji.
+- Larangan Selama Ujian Selama ujian berlangsung mahasiswa dilarang merokok, berbicara, melihat ke arah peserta lain, atau melakukan tindakan yang dapat mengganggu ketertiban ujian.
+- Sanksi Pelanggaran Tata Tertib Perkuliahan Dosen maupun mahasiswa yang melanggar tata tertib perkuliahan dapat dikenakan sanksi sesuai dengan peraturan yang berlaku di Universitas Islam Riau.
+- Ketentuan Peserta Ujian Terlambat Peserta ujian yang datang terlambat tidak diberikan tambahan waktu dalam mengerjakan ujian.
+
+==============================
+QUERY 22: Kapan pembayaran SPP tahap 1 semester ganjil 2025/2026?
+==============================
+- Kegiatan akademik: Pembayaran uang SPP dasar tahap 1 Semester: Ganjil 2025/2026 Tanggal pelaksanaan: 04 August 2025 sampai 31 October 2025
+- Kegiatan akademik: Pembayaran uang SPP dasar tahap 1 Semester: Genap 2025/2026 Tanggal pelaksanaan: 02 February 2026 sampai 10 April 2026
+- Kegiatan akademik: Pembayaran uang SKS tahap 2 Semester: Ganjil 2025/2026 Tanggal pelaksanaan: 04 August 2025 sampai 31 October 2025
+- Syarat Pengisian KRS Mahasiswa harus membayar SPP dasar atau UKT tahap pertama sebelum dapat melakukan pengisian Kartu Rencana Studi secara online.
+- Kegiatan akademik: Pelaporan PDDIKTI poin 1 Semester: Ganjil 2025/2026 Tanggal pelaksanaan: 27 October 2025 sampai 07 November 2025
+
+==============================
+QUERY 23: Kapan pembayaran SKS tahap 2 semester ganjil?
+==============================
+- Kegiatan akademik: Pembayaran uang SKS tahap 2 Semester: Ganjil 2025/2026 Tanggal pelaksanaan: 04 August 2025 sampai 31 October 2025
+- Kegiatan akademik: Pembayaran uang SKS tahap 2 Semester: Genap 2025/2026 Tanggal pelaksanaan: 02 February 2026 sampai 12 June 2026
+- Pembayaran SKS Mahasiswa membayar biaya SKS di bank sesuai dengan jumlah SKS yang diambil melalui sistem SIKAD.
+- Kegiatan akademik: Pembayaran uang SPP dasar tahap 1 Semester: Ganjil 2025/2026 Tanggal pelaksanaan: 04 August 2025 sampai 31 October 2025
+- Kegiatan akademik: Pelaporan PDDIKTI poin 2 Semester: Ganjil 2025/2026 Tanggal pelaksanaan: 23 March 2026 sampai 03 April 2026
+
+==============================
+QUERY 24: Apa konsekuensi jika belum bayar UKT sebelum KRS?
+==============================
+- Ketentuan Pembayaran UKT Mahasiswa wajib melunasi pembayaran UKT sebelum melakukan pengisian KRS dan mahasiswa yang belum melunasi pembayaran UKT tidak dapat melanjutkan proses akademik pada semester berjalan. Langkah-langkah:
+- Pembayaran melalui Mobile Banking Pembayaran UKT melalui aplikasi BSI Mobile. Langkah-langkah: Login ke aplikasi BSI Mobile Pilih menu Bayar Pilih menu Akademik Pilih nama akademik 2661 – UIR Masukkan Nomor Pokok Mahasiswa (NPM) Detail tagihan akan ditampilkan Ikuti petunjuk hingga transaksi selesai
+- Syarat Pengisian KRS Mahasiswa harus membayar SPP dasar atau UKT tahap pertama sebelum dapat melakukan pengisian Kartu Rencana Studi secara online.
+- Dokumen Wisuda Dokumen yang harus diunggah pada pendaftaran wisuda meliputi berita acara ujian skripsi, ijazah SMA, surat bebas administrasi, KTP, dan file skripsi.
+- Pembayaran melalui Transfer Bank Pembayaran UKT melalui transfer bank Mandiri. Langkah-langkah: Transfer melalui ATM, internet banking atau mobile banking Bank Mandiri Jika tujuan transfer ke Bank Syariah Indonesia gunakan kode bank 451 diikuti 9002661 dan NPM Jika tujuan transfer ke Bank Mega Syariah gunakan kode bank 506 diikuti 9005 dan NPM Jika tujuan transfer ke BTN Syariah gunakan kode bank 200 diikuti virtual account 70001006 dan NPM Masukkan nominal pembayaran sesuai tagihan Ikuti petunjuk hingga transaksi selesai

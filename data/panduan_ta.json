@@ -1,0 +1,176 @@
+[
+{
+"id": "ta_1",
+"title": "Pengertian Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Tugas Akhir merupakan karya tulis ilmiah berupa hasil penelitian mahasiswa Program Studi Teknik Informatika Universitas Islam Riau yang membahas suatu permasalahan dalam bidang informatika atau ilmu komputer dan menjadi salah satu syarat untuk memperoleh gelar Sarjana Teknik."
+},
+{
+"id": "ta_2",
+"title": "Syarat Mengambil Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Mahasiswa dapat mengambil tugas akhir apabila terdaftar sebagai mahasiswa aktif Program Studi Teknik Informatika Universitas Islam Riau dan telah menyelesaikan minimal 120 SKS dengan IPK minimal 2.50."
+},
+{
+"id": "ta_3",
+"title": "Pembimbing Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Mahasiswa dibimbing oleh satu orang dosen pembimbing yang memiliki keilmuan sesuai dengan topik penelitian. Program studi dapat menunjuk dua pembimbing dengan persetujuan dekan."
+},
+{
+"id": "ta_4",
+"title": "Kualifikasi Dosen Pembimbing",
+"category": "tugas_akhir",
+"content": "Dosen dengan kualifikasi pendidikan Magister (S2) dan memiliki jabatan fungsional Asisten Ahli dapat membimbing tugas akhir apabila memiliki minimal dua artikel hasil penelitian yang dipublikasikan di jurnal terindeks DOAJ dan memiliki masa kerja minimal satu tahun sejak memperoleh jabatan fungsional."
+},
+{
+"id": "ta_5",
+"title": "Tugas Pembimbing Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Dosen pembimbing bertugas memberikan arahan kepada mahasiswa dalam melaksanakan penelitian, memberikan petunjuk tentang metode penelitian, memberikan masukan terkait penulisan laporan, mencatat proses bimbingan, memeriksa hasil perbaikan setelah seminar proposal dan sidang tugas akhir, serta memberikan persetujuan kelayakan ujian."
+},
+{
+"id": "ta_6",
+"title": "Kehadiran Pembimbing",
+"category": "tugas_akhir",
+"content": "Dosen pembimbing wajib hadir pada saat pelaksanaan seminar proposal penelitian dan sidang tugas akhir mahasiswa yang dibimbing."
+},
+{
+"id": "ta_7",
+"title": "Tugas dan Wewenang Penguji",
+"category": "tugas_akhir",
+"content": "Penguji bertugas menilai kemampuan mahasiswa berdasarkan standar kompetensi, menilai kualitas proposal dan laporan tugas akhir, serta menilai sikap mahasiswa dalam mempertahankan penelitian. Penguji berwenang menentukan hasil seminar proposal dan sidang tugas akhir."
+},
+{
+"id": "ta_8",
+"title": "Penentuan Topik Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Mahasiswa menentukan topik penelitian dengan berdiskusi bersama dosen pembimbing akademik atau calon dosen pembimbing sebelum menyusun proposal tugas akhir."
+},
+{
+"id": "ta_9",
+"title": "Pengajuan Proposal Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Proposal tugas akhir diserahkan kepada program studi untuk diteruskan kepada kelompok bidang keahlian dosen untuk mendapatkan persetujuan terkait topik atau judul penelitian."
+},
+{
+"id": "ta_10",
+"title": "Persetujuan Proposal Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Jika proposal penelitian diterima oleh program studi, mahasiswa dapat melanjutkan proses pengurusan Surat Keputusan pembimbing tugas akhir."
+},
+{
+"id": "ta_11",
+"title": "Penolakan Proposal Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Apabila proposal penelitian ditolak, mahasiswa harus memperbaiki topik atau proposal dan menyerahkannya kembali ke program studi."
+},
+{
+"id": "ta_12",
+"title": "Konsultasi Penyusunan Proposal",
+"category": "tugas_akhir",
+"content": "Mahasiswa wajib melakukan konsultasi dengan dosen pembimbing dalam proses penyusunan proposal penelitian dan setiap konsultasi dicatat pada kartu bimbingan."
+},
+{
+"id": "ta_13",
+"title": "Jumlah Minimal Bimbingan Proposal",
+"category": "tugas_akhir",
+"content": "Mahasiswa harus melakukan minimal empat kali konsultasi dengan dosen pembimbing sebelum mendaftar seminar proposal."
+},
+{
+"id": "ta_14",
+"title": "Pendaftaran Seminar Proposal",
+"category": "tugas_akhir",
+"content": "Mahasiswa mendaftar seminar proposal dengan menyerahkan proposal penelitian yang telah disusun bersama pembimbing sebanyak tiga eksemplar disertai formulir pengesahan."
+},
+{
+"id": "ta_15",
+"title": "Pelaksanaan Seminar Proposal",
+"category": "tugas_akhir",
+"content": "Seminar proposal dilaksanakan secara terbuka dengan dihadiri oleh satu dosen pembimbing dan dua dosen penguji."
+},
+{
+"id": "ta_16",
+"title": "Hasil Seminar Proposal",
+"category": "tugas_akhir",
+"content": "Hasil seminar proposal dapat berupa mengulang atau tidak mengulang. Jika dinyatakan mengulang maka mahasiswa harus memperbaiki proposal dan mengulang proses seminar."
+},
+{
+"id": "ta_17",
+"title": "Pelaksanaan Penelitian Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Setelah seminar proposal dinyatakan tidak mengulang, mahasiswa melaksanakan penelitian dan menyusun laporan tugas akhir dengan bimbingan dosen pembimbing."
+},
+{
+"id": "ta_18",
+"title": "Jumlah Minimal Bimbingan Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Mahasiswa wajib melakukan minimal delapan kali bimbingan selama proses pengerjaan tugas akhir."
+},
+{
+"id": "ta_19",
+"title": "Durasi Pengerjaan Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Penyelesaian tugas akhir maksimal satu semester, namun dapat diperpanjang ke semester berikutnya dengan topik dan pembimbing yang sama."
+},
+{
+"id": "ta_20",
+"title": "Batas Maksimal Penyelesaian Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Jika mahasiswa tidak dapat menyelesaikan tugas akhir dalam waktu dua semester berturut-turut, maka mahasiswa harus mengulang pengajuan topik penelitian dari awal."
+},
+{
+"id": "ta_21",
+"title": "Syarat Seminar Proposal",
+"category": "tugas_akhir",
+"content": "Mahasiswa dapat mengikuti seminar proposal jika telah menyelesaikan 120 SKS, telah membayar SPP dasar, telah mengisi KRS, dan menyerahkan proposal yang disetujui dosen pembimbing."
+},
+{
+"id": "ta_22",
+"title": "Sidang Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Sidang tugas akhir dilaksanakan secara tertutup oleh tim penguji yang terdiri dari ketua, sekretaris, dan anggota yang ditentukan oleh program studi."
+},
+{
+"id": "ta_23",
+"title": "Komponen Penilaian Sidang Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Penilaian sidang tugas akhir meliputi pendahuluan dan sistematika penulisan, pemahaman teori, metodologi penelitian, performa penyajian, dan referensi."
+},
+{
+"id": "ta_24",
+"title": "Hasil Sidang Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Hasil sidang tugas akhir dapat berupa lulus atau gagal."
+},
+{
+"id": "ta_25",
+"title": "Syarat Sidang Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Mahasiswa dapat mengikuti sidang tugas akhir jika telah lulus seluruh mata kuliah dengan nilai minimal C, memiliki IPK minimal 2.75, memiliki sertifikat TOEFL minimal 450, memiliki sertifikat membaca Al-Quran bagi mahasiswa muslim, serta memiliki hasil Turnitin kurang dari 30 persen."
+},
+{
+"id": "ta_26",
+"title": "Persyaratan Administrasi Sidang Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Mahasiswa harus telah membayar SPP dasar, mengisi KRS tugas akhir, serta mendapatkan persetujuan dari dosen pembimbing dan ketua program studi."
+},
+{
+"id": "ta_27",
+"title": "Perbaikan Setelah Sidang Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Mahasiswa yang dinyatakan lulus sidang tugas akhir harus melakukan perbaikan laporan sesuai dengan masukan penguji."
+},
+{
+"id": "ta_28",
+"title": "Batas Waktu Perbaikan Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Perbaikan laporan tugas akhir harus diselesaikan paling lambat dua minggu setelah mahasiswa dinyatakan lulus sidang."
+},
+{
+"id": "ta_29",
+"title": "Persiapan Wisuda Setelah Tugas Akhir",
+"category": "tugas_akhir",
+"content": "Setelah menyelesaikan sidang dan perbaikan tugas akhir, mahasiswa harus melengkapi persyaratan wisuda sesuai dengan ketentuan universitas."
+}
+]

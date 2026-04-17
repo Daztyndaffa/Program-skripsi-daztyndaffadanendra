@@ -1,0 +1,142 @@
+[
+{
+"id":"fakultas_1",
+"title":"Informasi Umum Fakultas dan Program Studi UIR",
+"category":"profil_universitas",
+"source":"informasi_universitas",
+"content":"Universitas Islam Riau memiliki berbagai fakultas dan program studi yang menyelenggarakan pendidikan pada jenjang sarjana, magister, dan doktor di berbagai bidang ilmu."
+},
+{
+"id":"fakultas_2",
+"title":"Fakultas Hukum UIR",
+"category":"fakultas",
+"source":"informasi_universitas",
+"content":"Fakultas Hukum Universitas Islam Riau memiliki program studi Ilmu Hukum pada jenjang Sarjana (S1) dengan status akreditasi Unggul."
+},
+{
+"id":"fakultas_3",
+"title":"Program Studi Fakultas Agama Islam UIR",
+"category":"fakultas",
+"source":"informasi_universitas",
+"content":"Fakultas Agama Islam Universitas Islam Riau memiliki program studi Ekonomi Islam, Pendidikan Agama Islam, Pendidikan Islam Anak Usia Dini (PIAUD), Perbankan Syariah, dan Pendidikan Bahasa Arab pada jenjang Sarjana (S1)."
+},
+{
+"id":"fakultas_4",
+"title":"Akreditasi Program Studi Fakultas Agama Islam",
+"category":"akreditasi_prodi",
+"source":"informasi_universitas",
+"content":"Program Studi Ekonomi Islam terakreditasi Baik Sekali, Pendidikan Agama Islam terakreditasi Unggul, Pendidikan Islam Anak Usia Dini (PIAUD) terakreditasi Baik Sekali, Perbankan Syariah terakreditasi Baik, dan Pendidikan Bahasa Arab terakreditasi Baik."
+},
+{
+"id":"fakultas_5",
+"title":"Program Studi Fakultas Teknik UIR",
+"category":"fakultas",
+"source":"informasi_universitas",
+"content":"Fakultas Teknik Universitas Islam Riau memiliki program studi Teknik Sipil, Teknik Perminyakan, Teknik Mesin, Teknik Perencanaan Wilayah dan Kota, Teknik Informatika, dan Teknik Geologi pada jenjang Sarjana (S1)."
+},
+{
+"id":"fakultas_6",
+"title":"Akreditasi Program Studi Fakultas Teknik",
+"category":"akreditasi_prodi",
+"source":"informasi_universitas",
+"content":"Program Studi Teknik Sipil, Teknik Perminyakan, Teknik Mesin, Teknik Perencanaan Wilayah dan Kota, Teknik Informatika, dan Teknik Geologi di Fakultas Teknik Universitas Islam Riau masing-masing memiliki akreditasi Baik Sekali."
+},
+{
+"id":"fakultas_7",
+"title":"Program Studi Fakultas Pertanian UIR",
+"category":"fakultas",
+"source":"informasi_universitas",
+"content":"Fakultas Pertanian Universitas Islam Riau memiliki program studi Agroteknologi, Agribisnis, dan Akuakultur (Budidaya Perairan) pada jenjang Sarjana (S1)."
+},
+{
+"id":"fakultas_8",
+"title":"Akreditasi Program Studi Fakultas Pertanian",
+"category":"akreditasi_prodi",
+"source":"informasi_universitas",
+"content":"Program Studi Agroteknologi, Agribisnis, dan Akuakultur (Budidaya Perairan) di Fakultas Pertanian Universitas Islam Riau memiliki akreditasi Unggul."
+},
+{
+"id":"fakultas_9",
+"title":"Program Studi Fakultas Ekonomi dan Bisnis UIR",
+"category":"fakultas",
+"source":"informasi_universitas",
+"content":"Fakultas Ekonomi dan Bisnis Universitas Islam Riau memiliki program studi Ekonomi Pembangunan, Manajemen, dan Akuntansi pada jenjang Sarjana (S1)."
+},
+{
+"id":"fakultas_10",
+"title":"Akreditasi Program Studi Fakultas Ekonomi dan Bisnis",
+"category":"akreditasi_prodi",
+"source":"informasi_universitas",
+"content":"Program Studi Ekonomi Pembangunan, Manajemen, dan Akuntansi di Fakultas Ekonomi dan Bisnis Universitas Islam Riau memiliki akreditasi Baik Sekali."
+},
+{
+"id":"fakultas_11",
+"title":"Program Studi Fakultas Keguruan dan Ilmu Pendidikan",
+"category":"fakultas",
+"source":"informasi_universitas",
+"content":"Fakultas Keguruan dan Ilmu Pendidikan Universitas Islam Riau memiliki program studi Pendidikan Kimia, Pendidikan Bahasa dan Sastra Indonesia, Pendidikan Bahasa Inggris, Pendidikan Matematika, Pendidikan Biologi, Pendidikan Jasmani, Pendidikan Seni Pertunjukan, Pendidikan Akuntansi, Pendidikan Guru Sekolah Dasar (PGSD), dan Pendidikan Profesi Guru."
+},
+{
+"id":"fakultas_12",
+"title":"Akreditasi Program Studi FKIP",
+"category":"akreditasi_prodi",
+"source":"informasi_universitas",
+"content":"Program Studi Pendidikan Bahasa dan Sastra Indonesia serta Pendidikan Biologi memiliki akreditasi Unggul. Program studi lainnya di FKIP seperti Pendidikan Kimia, Pendidikan Bahasa Inggris, Pendidikan Matematika, Pendidikan Jasmani, Pendidikan Seni Pertunjukan, Pendidikan Akuntansi, PGSD, dan Pendidikan Profesi Guru memiliki akreditasi Baik Sekali."
+},
+{
+"id":"fakultas_13",
+"title":"Program Studi Fakultas Ilmu Sosial dan Ilmu Politik",
+"category":"fakultas",
+"source":"informasi_universitas",
+"content":"Fakultas Ilmu Sosial dan Ilmu Politik Universitas Islam Riau memiliki program studi Administrasi Publik, Administrasi Bisnis, Ilmu Pemerintahan, Kriminologi, dan Hubungan Internasional pada jenjang Sarjana (S1)."
+},
+{
+"id":"fakultas_14",
+"title":"Akreditasi Program Studi FISIPOL",
+"category":"akreditasi_prodi",
+"source":"informasi_universitas",
+"content":"Program Studi Administrasi Publik, Administrasi Bisnis, Ilmu Pemerintahan, dan Kriminologi memiliki akreditasi Unggul, sedangkan Program Studi Hubungan Internasional memiliki akreditasi Baik."
+},
+{
+"id":"fakultas_15",
+"title":"Fakultas Psikologi UIR",
+"category":"fakultas",
+"source":"informasi_universitas",
+"content":"Fakultas Psikologi Universitas Islam Riau memiliki program studi Psikologi pada jenjang Sarjana (S1) dengan akreditasi B."
+},
+{
+"id":"fakultas_16",
+"title":"Fakultas Ilmu Komunikasi UIR",
+"category":"fakultas",
+"source":"informasi_universitas",
+"content":"Fakultas Ilmu Komunikasi Universitas Islam Riau memiliki program studi Ilmu Komunikasi pada jenjang Sarjana (S1) dengan akreditasi B."
+},
+{
+"id":"fakultas_17",
+"title":"Program Pascasarjana UIR",
+"category":"pascasarjana",
+"source":"informasi_universitas",
+"content":"Program Pascasarjana Universitas Islam Riau menyelenggarakan pendidikan pada jenjang Magister (S2) dan Doktor (S3) di berbagai bidang ilmu."
+},
+{
+"id":"fakultas_18",
+"title":"Program Studi Magister (S2) UIR",
+"category":"pascasarjana",
+"source":"informasi_universitas",
+"content":"Program studi S2 di Universitas Islam Riau meliputi Agronomi, Ilmu Hukum, Ilmu Pemerintahan, Manajemen Agribisnis, Teknik Sipil, Ilmu Administrasi, Manajemen, dan Akuntansi."
+},
+{
+"id":"fakultas_19",
+"title":"Akreditasi Program Studi Magister UIR",
+"category":"akreditasi_prodi",
+"source":"informasi_universitas",
+"content":"Program studi S2 Agronomi dan Ilmu Pemerintahan terakreditasi Baik Sekali, Ilmu Hukum, Manajemen Agribisnis, Teknik Sipil, dan Ilmu Administrasi terakreditasi Unggul, sedangkan Manajemen dan Akuntansi terakreditasi Baik Sekali."
+},
+{
+"id":"fakultas_20",
+"title":"Program Studi Doktor (S3) UIR",
+"category":"pascasarjana",
+"source":"informasi_universitas",
+"content":"Program studi jenjang Doktor (S3) di Universitas Islam Riau meliputi Program Studi Hukum dan Program Studi Sains Manajemen yang memiliki akreditasi Baik."
+}
+]
